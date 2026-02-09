@@ -1,0 +1,60 @@
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__logo">
+            <img src="/images/pokemon-tcg-logo.png" alt="Pokemon TCG Logo" class="footer__tcg-logo">
+            <p class="footer__disclaimer">
+                Colorful Cardboard is an independent fan site and is not affiliated with, endorsed by, or sponsored by The Pokémon Company, Nintendo, or Creatures Inc. Pokemon and all related marks and characters are trademarks of The Pokémon Company.
+            </p>
+        </div>
+        
+        <div class="footer__links">
+            <div class="footer__col">
+                <h4>Content</h4>
+                <ul>
+                    <li><a href="/start-here/">Start Here</a></li>
+                    <li><a href="/categories/market-analysis/">Market Analysis</a></li>
+                    <li><a href="/categories/card-picks/">Card Picks</a></li>
+                    <li><a href="/categories/set-reviews/">Set Reviews</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer__col">
+                <h4>About</h4>
+                <ul>
+                    <li><a href="/about/">About Us</a></li>
+                    <li><a href="/posts/">All Posts</a></li>
+                    {{- if .Site.Params.socialIcons }}
+                    <li class="footer__social">
+                        <div class="social-icons">
+                        {{- range .Site.Params.socialIcons }}
+                            <a href="{{ .url | absURL }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" height="20">
+                                    <use href="#{{ .name }}"></use>
+                                </svg>
+                                <span>{{ .name }}</span>
+                            </a>
+                        {{- end }}
+                        </div>
+                    </li>
+                    {{- end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer__bottom">
+        <span>{{ now.Year }} {{ .Site.Title }}{{ with .Site.Params.copyright }} • {{ . }}{{ end }}</span>
+    </div>
+</footer>
+{{- end }}
+
+{{- if (not .Site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+{{- end }}
+
+{{- partial "extend_footer.html" . }}

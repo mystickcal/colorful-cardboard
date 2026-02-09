@@ -386,7 +386,10 @@ a, button, input {
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   padding: 64px 0;
-  background: #0B1220;
+  background: linear-gradient(135deg, rgba(11,18,32,0.96) 0%, rgba(15,23,42,0.98) 100%), 
+              url('/images/colorful-abstract.jpg');
+  background-size: cover;
+  background-position: center;
   color: rgba(226,232,240,0.92);
   border-top: 1px solid rgba(148,163,184,0.16);
 }
@@ -436,17 +439,98 @@ a, button, input {
 
 .cc-newsletter__fine { font-size: 0.78rem; color: rgba(226,232,240,0.62); }
 
-/* ========== FOOTER (clean) ========== */
+/* ========== FOOTER (clean + enhanced) ========== */
 .footer {
   background: #0B1220;
   border-top: 1px solid rgba(148,163,184,0.16);
-  padding: 26px 0;
+  padding: 44px 0 26px;
   color: rgba(226,232,240,0.70);
   font-size: 0.85rem;
 }
 
-.footer a { color: rgba(226,232,240,0.88); font-weight: 700; }
-.footer a:hover { color: #fff; }
+.footer__inner {
+  width: min(var(--nav-width), 92vw);
+  margin: 0 auto 32px;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 32px;
+}
+
+@media (max-width: 800px) {
+  .footer__inner { grid-template-columns: 1fr; gap: 28px; }
+}
+
+.footer__tcg-logo {
+  width: 180px;
+  height: auto;
+  opacity: 0.75;
+  margin-bottom: 12px;
+}
+
+.footer__disclaimer {
+  font-size: 0.75rem;
+  line-height: 1.55;
+  color: rgba(226,232,240,0.55);
+  max-width: 52ch;
+}
+
+.footer__links {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 22px;
+}
+
+@media (max-width: 800px) {
+  .footer__links { grid-template-columns: 1fr; }
+}
+
+.footer__col h4 {
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.footer__col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__col li {
+  margin-bottom: 6px;
+}
+
+.footer__col a {
+  color: rgba(226,232,240,0.78);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer__col a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer__social {
+  margin-top: 10px;
+}
+
+.footer__social .social-icons {
+  gap: 10px;
+}
+
+.footer__bottom {
+  width: min(var(--nav-width), 92vw);
+  margin: 0 auto;
+  padding-top: 22px;
+  border-top: 1px solid rgba(148,163,184,0.12);
+  text-align: center;
+  color: rgba(226,232,240,0.55);
+  font-size: 0.8rem;
+}
 
 /* ========== Small screens spacing tweaks ========== */
 @media (max-width: 768px) {
