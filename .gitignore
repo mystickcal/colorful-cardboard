@@ -1,0 +1,12 @@
+# Project management files (not part of the site)
+research/
+keywords/
+content-calendar/
+competitors/
+affiliate/
+newsletter/
+social/
+PROJECT.md
+public/
+resources/_gen/
+.hugo_build.lock
