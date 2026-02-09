@@ -63,6 +63,15 @@ a, button, input {
 
 .header::after { display: none !important; }
 
+.header {
+  overflow: visible !important;
+}
+
+.nav {
+  line-height: normal !important;
+  padding: 10px 0;
+}
+
 .logo a {
   color: var(--primary) !important;
   font-weight: 800;
@@ -76,9 +85,10 @@ a, button, input {
   display: none !important;
 }
 
-.logo img {
+.logo a img {
   height: 80px !important;
   width: auto !important;
+  transform: none !important;
 }
 
 .logo a::before { display: none; }
@@ -89,8 +99,9 @@ a, button, input {
 }
 
 .footer__logo-img {
-  width: 160px !important;
+  width: 200px !important;
   height: auto !important;
+  border-radius: 0 !important;
 }
 
 #menu a {
@@ -564,34 +575,35 @@ a, button, input {
 .footer__brand {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  align-items: center;
+  text-align: center;
+  gap: 12px;
 }
 
 .footer__logo-link {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   text-decoration: none;
 }
 
 .footer__logo-img {
-  width: 36px;
-  height: 36px;
-  border-radius: 8px;
+  width: 200px !important;
+  height: auto !important;
+  border-radius: 0 !important;
 }
 
 .footer__site-name {
-  font-size: 1.1rem;
-  font-weight: 800;
-  color: #fff;
-  letter-spacing: -0.01em;
+  display: none !important;
 }
 
 .footer__tagline {
-  font-size: 0.85rem;
-  color: rgba(226,232,240,0.55);
+  font-size: 0.95rem;
+  color: rgba(226,232,240,0.65);
   margin: 0;
   line-height: 1.5;
+  text-align: center;
 }
 
 .footer__nav {
