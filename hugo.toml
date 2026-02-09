@@ -27,9 +27,9 @@ theme = "PaperMod"
 
   # Site label/logo (PaperMod)
   [params.label]
-    text = "Colorful Cardboard"
+    text = ""
     icon = "/images/logo-premium.png"
-    iconHeight = 40
+    iconHeight = 60
 
   # Social cards defaults
   images = ["/images/pokemon-cards-spread.jpg"]

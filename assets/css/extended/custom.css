@@ -67,6 +67,18 @@ a, button, input {
   color: var(--primary) !important;
   font-weight: 800;
   font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.logo a span {
+  display: none !important;
+}
+
+.logo img {
+  height: 60px !important;
+  width: auto !important;
 }
 
 .logo a::before { display: none; }
@@ -517,11 +529,15 @@ a, button, input {
   padding: 48px 0 28px;
   color: rgba(226,232,240,0.70);
   font-size: 0.85rem;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
 }
 
 .footer__inner {
   width: min(var(--nav-width), 92vw);
   margin: 0 auto;
+  max-width: 100%;
 }
 
 .footer__content {
