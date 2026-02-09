@@ -1,0 +1,39 @@
+{{- define "main" -}}
+
+<article class="post-single cc-single">
+  <header class="post-header">
+    {{- if .Params.cover -}}
+      {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" false) -}}
+    {{- end -}}
+
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- partial "post_meta.html" . -}}
+  </header>
+
+  <div class="cc-single__layout">
+    <div class="cc-single__content">
+      {{- if .Params.ShowToc -}}
+        <div class="cc-toc-mobile">
+          {{- partial "toc.html" . -}}
+        </div>
+      {{- end -}}
+
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+
+      {{- if (and site.Params.ShowPostNavLinks (or .NextInSection .PrevInSection)) -}}
+        {{- partial "post_nav_links.html" . -}}
+      {{- end -}}
+    </div>
+
+    {{- if .Params.ShowToc -}}
+      <div class="cc-single__sidebar">
+        {{- partial "toc-sticky.html" . -}}
+      </div>
+    {{- end -}}
+  </div>
+
+</article>
+
+{{- end -}}

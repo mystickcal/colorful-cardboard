@@ -1,0 +1,47 @@
+{{- define "main" -}}
+<header class="page-header">
+  {{- if .Title }}
+    <h1>{{ .Title }}</h1>
+  {{- end -}}
+  {{- with .Params.description }}
+    <div class="page-description">{{ . }}</div>
+  {{- end -}}
+</header>
+
+{{- if .Content }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+{{- end -}}
+
+<div class="cc-post-grid cc-post-grid--list">
+  {{- range .Pages.ByDate.Reverse -}}
+    {{- if not .Draft -}}
+      <article class="cc-post-card">
+        <a class="cc-post-card__link" href="{{ .RelPermalink }}">
+          {{- $img := "" -}}
+          {{- with .Params.cover -}}
+            {{- $img = .image -}}
+          {{- end -}}
+          {{- if $img -}}
+            <div class="cc-post-card__thumb" style="--cc-thumb-bg: url('{{ $img }}');"></div>
+          {{- end -}}
+          <div class="cc-post-card__body">
+            <h2 class="cc-post-card__title">{{ .Title }}</h2>
+            {{- with .Params.description -}}
+              <p class="cc-post-card__desc">{{ . }}</p>
+            {{- end -}}
+            <div class="cc-post-card__meta">
+              <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              {{- with .Params.categories -}}
+                <span class="cc-dot">•</span>
+                <span class="cc-post-card__cat">{{ index . 0 }}</span>
+              {{- end -}}
+            </div>
+          </div>
+        </a>
+      </article>
+    {{- end -}}
+  {{- end -}}
+</div>
+{{- end -}}
