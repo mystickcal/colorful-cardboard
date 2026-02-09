@@ -2,7 +2,8 @@ baseURL = "https://colorfulcardboard.com/"
 languageCode = "en-us"
 title = "Colorful Cardboard - Pokemon Card Investment Guide"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   env = "production"
