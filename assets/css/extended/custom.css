@@ -603,6 +603,13 @@ a, button, input {
   font-size: 0.8rem;
 }
 
+/* ========== Dot separator ========== */
+.cc-dot {
+  margin: 0 6px;
+  opacity: 0.4;
+  font-size: 0.7em;
+}
+
 /* ========== Small screens spacing tweaks ========== */
 @media (max-width: 768px) {
   .cc-section { padding: 44px 0; }

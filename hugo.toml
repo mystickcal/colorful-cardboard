@@ -9,7 +9,7 @@ theme = "PaperMod"
   env = "production"
   title = "Colorful Cardboard"
   description = "Data-driven Pokemon card investment analysis. Market trends, undervalued picks, set reviews, and portfolio strategies for collectors who want to build wealth through cardboard."
-  author = "AiMe"
+  author = "Colorful Cardboard"
   defaultTheme = "light"
   disableThemeToggle = true
 
