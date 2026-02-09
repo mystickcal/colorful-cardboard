@@ -2,6 +2,10 @@
 title: "About Colorful Cardboard"
 date: 2026-02-09
 draft: false
+cover:
+  image: "/images/pikachu-figure.jpg"
+  alt: "Pokemon figures and collectibles"
+  caption: ""
 ShowToc: false
 ---
 

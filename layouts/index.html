@@ -1,0 +1,131 @@
+{{- /* Custom homepage for Colorful Cardboard (overrides PaperMod) */ -}}
+{{- define "main" -}}
+
+<section class="cc-hero" style="--cc-hero-bg: url('/images/pokemon-cards-spread.jpg');">
+  <div class="cc-hero__inner">
+    <div class="cc-hero__content">
+      <p class="cc-hero__kicker">Pokemon Card Investing</p>
+      <h1 class="cc-hero__title">Colorful Cardboard</h1>
+      <p class="cc-hero__tagline">Data-Driven Pokemon Card Investment Analysis</p>
+      <div class="cc-hero__cta">
+        <a class="cc-btn cc-btn--primary" href="/start-here/">Start Here →</a>
+        <a class="cc-btn cc-btn--ghost" href="/categories/market-analysis/">Latest Market Analysis</a>
+      </div>
+    </div>
+
+    <div class="cc-hero__stats" aria-hidden="true">
+      <div class="cc-stat">
+        <div class="cc-stat__num">Macro</div>
+        <div class="cc-stat__label">Rotation + Supply</div>
+      </div>
+      <div class="cc-stat">
+        <div class="cc-stat__num">Tactical</div>
+        <div class="cc-stat__label">Singles + Promos</div>
+      </div>
+      <div class="cc-stat">
+        <div class="cc-stat__num">Sealed</div>
+        <div class="cc-stat__label">Long-Term Holds</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cc-section cc-latest">
+  <div class="cc-section__head">
+    <h2>Latest Analysis</h2>
+    <a class="cc-section__link" href="/posts/">View all posts →</a>
+  </div>
+
+  <div class="cc-post-grid">
+    {{- $pages := where .Site.RegularPages "Type" "in" (slice "posts" "post") -}}
+    {{- $pages = where $pages "Draft" false -}}
+    {{- range first 6 (sort $pages "Date" "desc") -}}
+      <article class="cc-post-card">
+        <a class="cc-post-card__link" href="{{ .RelPermalink }}">
+          {{- $img := "" -}}
+          {{- with .Params.cover -}}
+            {{- $img = .image -}}
+          {{- end -}}
+          {{- if $img -}}
+            <div class="cc-post-card__thumb" style="--cc-thumb-bg: url('{{ $img }}');"></div>
+          {{- else -}}
+            <div class="cc-post-card__thumb cc-post-card__thumb--fallback"></div>
+          {{- end -}}
+
+          <div class="cc-post-card__body">
+            <div class="cc-post-card__meta">
+              <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              {{- with .Params.categories -}}
+                <span class="cc-dot">•</span>
+                <span class="cc-post-card__cat">{{ index . 0 }}</span>
+              {{- end -}}
+            </div>
+            <h3 class="cc-post-card__title">{{ .Title }}</h3>
+            {{- with .Params.description -}}
+              <p class="cc-post-card__desc">{{ . }}</p>
+            {{- end -}}
+          </div>
+        </a>
+      </article>
+    {{- end -}}
+  </div>
+</section>
+
+<section class="cc-section cc-categories">
+  <div class="cc-section__head">
+    <h2>Browse by Category</h2>
+    <p class="cc-section__sub">Pick a lane — macro trends, tactical buys, set research, or fundamentals.</p>
+  </div>
+
+  <div class="cc-cat-grid">
+    <a class="cc-cat-card cc-cat-card--purple" href="/categories/market-analysis/">
+      <div class="cc-cat-card__icon">📈</div>
+      <div>
+        <div class="cc-cat-card__title">Market Analysis</div>
+        <div class="cc-cat-card__desc">Rotation, releases, reprint risk, and what the data is saying.</div>
+      </div>
+    </a>
+
+    <a class="cc-cat-card cc-cat-card--green" href="/categories/card-picks/">
+      <div class="cc-cat-card__icon">🎯</div>
+      <div>
+        <div class="cc-cat-card__title">Card Picks</div>
+        <div class="cc-cat-card__desc">Specific singles and promos with clear catalysts and risk notes.</div>
+      </div>
+    </a>
+
+    <a class="cc-cat-card cc-cat-card--red" href="/categories/set-reviews/">
+      <div class="cc-cat-card__icon">🃏</div>
+      <div>
+        <div class="cc-cat-card__title">Set Reviews</div>
+        <div class="cc-cat-card__desc">Chase cards, print signals, and long-term sealed outlook.</div>
+      </div>
+    </a>
+
+    <a class="cc-cat-card cc-cat-card--yellow" href="/categories/beginners-guide/">
+      <div class="cc-cat-card__icon">🧭</div>
+      <div>
+        <div class="cc-cat-card__title">Beginner's Guide</div>
+        <div class="cc-cat-card__desc">Start with the fundamentals. Build a strategy you can stick with.</div>
+      </div>
+    </a>
+  </div>
+</section>
+
+<section class="cc-newsletter">
+  <div class="cc-newsletter__inner">
+    <div class="cc-newsletter__copy">
+      <h2>Get new analysis in your inbox</h2>
+      <p>Weekly highlights: market moves, rotation watchlists, and the best risk-adjusted opportunities.</p>
+    </div>
+
+    <form class="cc-newsletter__form" action="#" method="post">
+      <label class="sr-only" for="cc-email">Email</label>
+      <input id="cc-email" name="email" type="email" placeholder="you@example.com" autocomplete="email" />
+      <button type="submit">Subscribe</button>
+      <small class="cc-newsletter__fine">Placeholder form — signup wiring coming soon.</small>
+    </form>
+  </div>
+</section>
+
+{{- end -}}

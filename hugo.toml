@@ -1,14 +1,19 @@
 baseURL = "https://colorfulcardboard.com/"
 languageCode = "en-us"
-title = "Colorful Cardboard - Pokemon Card Investment Guide"
+title = "Colorful Cardboard"
 theme = "PaperMod"
 [pagination]
   pagerSize = 10
 
 [params]
   env = "production"
+  title = "Colorful Cardboard"
   description = "Data-driven Pokemon card investment analysis. Market trends, undervalued picks, set reviews, and portfolio strategies for collectors who want to build wealth through cardboard."
   author = "AiMe"
+
+  # Open Graph / Twitter defaults
+  [params.social]
+    twitter = "omgitsderek"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -17,7 +22,16 @@ theme = "PaperMod"
   ShowToc = true
   TocOpen = false
   comments = false
-  
+
+  # Site label/logo (PaperMod)
+  [params.label]
+    text = "Colorful Cardboard"
+    icon = "/images/logo.svg"
+    iconHeight = 30
+
+  # Social cards defaults
+  images = ["/images/pokemon-cards-spread.jpg"]
+
   [params.homeInfoParams]
     Title = "Welcome to Colorful Cardboard"
     Content = "Data-driven Pokemon card investment analysis. We track market trends, identify undervalued cards, review new sets, and help you build a portfolio that actually appreciates. Updated multiple times per week."
@@ -31,7 +45,7 @@ theme = "PaperMod"
     url = "https://x.com/omgitsderek"
 
 [params.assets]
-  favicon = "/favicon.ico"
+  favicon = "/favicon.svg"
 
 [params.cover]
   hidden = false
@@ -44,6 +58,11 @@ theme = "PaperMod"
 [markup]
   [markup.highlight]
     noClasses = false
+
+[[menu.main]]
+  name = "Start Here"
+  url = "/start-here/"
+  weight = 0
 
 [[menu.main]]
   name = "Market Analysis"
