@@ -1,0 +1,718 @@
+/* ============================================
+   COLORFUL CARDBOARD - CUSTOM CSS
+   Pokemon Card Investment Blog Theme
+   ============================================ */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+/* ============================================
+   COLOR SCHEME - Pokemon-Inspired Professional
+   ============================================
+   Primary Brand: Electric Yellow (#FFD93D) - Energy, Pokemon Yellow
+   Secondary: Deep Blue (#2B4C7E) - Trust, Water Pokemon, Investment credibility
+   Accent 1: Cardinal Red (#DC2626) - Fire, Charizard, Call-to-action
+   Accent 2: Emerald Green (#059669) - Growth, Grass Pokemon, Profit
+   Accent 3: Purple (#8B5CF6) - Psychic, Rare cards, Premium
+   Neutral Dark: Slate (#1E293B) - Text, professionalism
+   Neutral Light: Warm Gray (#F8F9FA) - Backgrounds
+   ============================================ */
+
+:root {
+    /* Primary Brand Colors */
+    --brand-yellow: #FFD93D;
+    --brand-blue: #2B4C7E;
+    --brand-red: #DC2626;
+    --brand-green: #059669;
+    --brand-purple: #8B5CF6;
+    
+    /* Neutral Palette */
+    --slate-900: #0F172A;
+    --slate-800: #1E293B;
+    --slate-700: #334155;
+    --slate-600: #475569;
+    --slate-500: #64748B;
+    --slate-400: #94A3B8;
+    --slate-300: #CBD5E1;
+    --slate-200: #E2E8F0;
+    --slate-100: #F1F5F9;
+    --slate-50: #F8FAFC;
+    
+    /* Override PaperMod Variables - LIGHT MODE */
+    --gap: 28px;
+    --content-gap: 24px;
+    --nav-width: 1200px;
+    --main-width: 800px;
+    --header-height: 72px;
+    --footer-height: 80px;
+    --radius: 12px;
+    
+    /* Color Overrides */
+    --theme: #FFFFFF;
+    --entry: #FFFFFF;
+    --primary: var(--slate-800);
+    --secondary: var(--slate-600);
+    --tertiary: var(--slate-300);
+    --content: var(--slate-900);
+    --code-block-bg: var(--slate-900);
+    --code-bg: var(--slate-100);
+    --border: var(--slate-200);
+    --hljs-bg: var(--slate-900);
+    
+    /* Custom Variables */
+    --accent: var(--brand-blue);
+    --accent-light: #3D5A8F;
+    --accent-hover: #1E3A5F;
+    --success: var(--brand-green);
+    --warning: var(--brand-yellow);
+    --danger: var(--brand-red);
+    --info: var(--brand-purple);
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    
+    color-scheme: light;
+}
+
+/* Dark Mode Overrides */
+:root[data-theme="dark"] {
+    --theme: var(--slate-900);
+    --entry: var(--slate-800);
+    --primary: var(--slate-100);
+    --secondary: var(--slate-400);
+    --tertiary: var(--slate-700);
+    --content: var(--slate-50);
+    --code-block-bg: var(--slate-800);
+    --code-bg: var(--slate-800);
+    --border: var(--slate-700);
+    
+    --accent: #5B8CC7;
+    --accent-light: #7AA3D6;
+    --accent-hover: #4A7AB6;
+    
+    /* Darker shadows for dark mode */
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+    --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.4), 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+    
+    color-scheme: dark;
+}
+
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    letter-spacing: -0.011em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6,
+.logo,
+.post-title,
+.post-entry h1,
+.post-entry h2 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* ============================================
+   HEADER & NAVIGATION
+   ============================================ */
+
+.header {
+    background: var(--theme);
+    border-bottom: 2px solid var(--border);
+    box-shadow: var(--shadow-sm);
+}
+
+.logo a {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--brand-blue) !important;
+    letter-spacing: -0.02em;
+    transition: color 0.2s ease;
+}
+
+.logo a:hover {
+    color: var(--accent-hover) !important;
+}
+
+/* Add Pokemon ball icon before logo */
+.logo a::before {
+    content: "◉";
+    font-size: 1.75rem;
+    margin-right: 8px;
+    background: linear-gradient(180deg, var(--brand-red) 0%, var(--brand-red) 48%, var(--slate-800) 48%, var(--slate-800) 52%, #FFFFFF 52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.menu {
+    gap: 6px;
+}
+
+.menu a {
+    font-weight: 500;
+    font-size: 0.95rem;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.menu a:hover {
+    background: var(--slate-100);
+    color: var(--brand-blue) !important;
+}
+
+:root[data-theme="dark"] .menu a:hover {
+    background: var(--slate-800);
+}
+
+.menu a.active {
+    background: var(--accent);
+    color: white !important;
+}
+
+/* ============================================
+   HOME PAGE INFO SECTION
+   ============================================ */
+
+.home-info {
+    background: linear-gradient(135deg, var(--brand-blue) 0%, var(--accent-light) 100%);
+    padding: 3rem 2rem;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-lg);
+    margin-bottom: 2.5rem;
+    color: white;
+}
+
+.home-info .Title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.home-info .Content {
+    font-size: 1.125rem;
+    line-height: 1.75;
+    color: rgba(255, 255, 255, 0.95);
+    max-width: 700px;
+}
+
+/* ============================================
+   POST ENTRIES & CARDS
+   ============================================ */
+
+.post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.75rem;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
+    position: relative;
+    overflow: hidden;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+}
+
+.post-entry::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: var(--accent);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.post-entry:hover::before {
+    opacity: 1;
+}
+
+.entry-header h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem 0;
+    line-height: 1.3;
+}
+
+.entry-header h2 a {
+    color: var(--content);
+    transition: color 0.2s ease;
+}
+
+.entry-header h2 a:hover {
+    color: var(--accent);
+}
+
+.entry-content {
+    color: var(--secondary);
+    font-size: 1rem;
+    line-height: 1.65;
+    margin-bottom: 1rem;
+}
+
+.entry-footer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.875rem;
+    color: var(--secondary);
+}
+
+/* ============================================
+   CATEGORY BADGES & VISUAL DIFFERENTIATION
+   ============================================ */
+
+/* Category badge styling */
+.post-entry .entry-header::after {
+    content: attr(data-category);
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+
+/* Market Analysis - Purple (Premium, Rare) */
+[data-category="market-analysis"] .entry-header::after {
+    background: var(--brand-purple);
+    color: white;
+}
+
+[data-category="market-analysis"] .post-entry::before {
+    background: var(--brand-purple);
+}
+
+/* Card Picks - Green (Growth, Profit) */
+[data-category="card-picks"] .entry-header::after {
+    background: var(--brand-green);
+    color: white;
+}
+
+[data-category="card-picks"] .post-entry::before {
+    background: var(--brand-green);
+}
+
+/* Set Reviews - Red (Fire, Excitement) */
+[data-category="set-reviews"] .entry-header::after {
+    background: var(--brand-red);
+    color: white;
+}
+
+[data-category="set-reviews"] .post-entry::before {
+    background: var(--brand-red);
+}
+
+/* Beginner's Guide - Yellow (Energy, Learning) */
+[data-category="beginners-guide"] .entry-header::after {
+    background: var(--brand-yellow);
+    color: var(--slate-900);
+}
+
+[data-category="beginners-guide"] .post-entry::before {
+    background: var(--brand-yellow);
+}
+
+/* Category page headers */
+.archive-header {
+    padding: 2rem;
+    border-radius: var(--radius);
+    margin-bottom: 2rem;
+    border: 2px solid var(--border);
+}
+
+.archive-header h1 {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* Category-specific header backgrounds */
+.archive-header[data-category="market-analysis"] {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(139, 92, 246, 0.05) 100%);
+    border-color: var(--brand-purple);
+}
+
+.archive-header[data-category="card-picks"] {
+    background: linear-gradient(135deg, rgba(5, 150, 105, 0.1) 0%, rgba(5, 150, 105, 0.05) 100%);
+    border-color: var(--brand-green);
+}
+
+.archive-header[data-category="set-reviews"] {
+    background: linear-gradient(135deg, rgba(220, 38, 38, 0.1) 0%, rgba(220, 38, 38, 0.05) 100%);
+    border-color: var(--brand-red);
+}
+
+.archive-header[data-category="beginners-guide"] {
+    background: linear-gradient(135deg, rgba(255, 217, 61, 0.2) 0%, rgba(255, 217, 61, 0.1) 100%);
+    border-color: var(--brand-yellow);
+}
+
+/* ============================================
+   SINGLE POST PAGE
+   ============================================ */
+
+.post-single {
+    background: var(--entry);
+    border-radius: var(--radius);
+    padding: 3rem 2.5rem;
+    box-shadow: var(--shadow);
+    margin-bottom: 2rem;
+}
+
+.post-header h1 {
+    font-size: 2.75rem;
+    margin-bottom: 1.5rem;
+    color: var(--content);
+}
+
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid var(--border);
+    color: var(--secondary);
+    font-size: 0.9rem;
+}
+
+.post-content {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: var(--content);
+}
+
+.post-content h2 {
+    color: var(--accent);
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 0.5rem;
+    margin-top: 3rem;
+}
+
+.post-content h3 {
+    color: var(--accent-light);
+}
+
+.post-content a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: rgba(43, 76, 126, 0.3);
+    text-underline-offset: 3px;
+    transition: all 0.2s ease;
+}
+
+.post-content a:hover {
+    color: var(--accent-hover);
+    text-decoration-color: var(--accent-hover);
+}
+
+.post-content strong {
+    font-weight: 600;
+    color: var(--content);
+}
+
+.post-content blockquote {
+    border-left: 4px solid var(--accent);
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+    background: var(--slate-100);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-style: italic;
+    color: var(--secondary);
+}
+
+:root[data-theme="dark"] .post-content blockquote {
+    background: var(--slate-800);
+}
+
+/* ============================================
+   BUTTONS & CALLS TO ACTION
+   ============================================ */
+
+.button,
+button,
+.post-button {
+    background: var(--accent);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: var(--shadow);
+}
+
+.button:hover,
+button:hover,
+.post-button:hover {
+    background: var(--accent-hover);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   TABLE OF CONTENTS
+   ============================================ */
+
+.toc {
+    background: var(--slate-100);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    margin: 2rem 0;
+}
+
+:root[data-theme="dark"] .toc {
+    background: var(--slate-800);
+}
+
+.toc-title {
+    font-weight: 700;
+    font-size: 1.125rem;
+    color: var(--content);
+    margin-bottom: 1rem;
+}
+
+.toc ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.toc li {
+    margin: 0.5rem 0;
+}
+
+.toc a {
+    color: var(--secondary);
+    transition: color 0.2s ease;
+}
+
+.toc a:hover {
+    color: var(--accent);
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+
+footer {
+    background: var(--slate-100);
+    border-top: 2px solid var(--border);
+    padding: 2rem 0;
+}
+
+:root[data-theme="dark"] footer {
+    background: var(--slate-900);
+}
+
+footer .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    color: var(--secondary);
+    transition: all 0.2s ease;
+}
+
+.social-icons a:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    transform: translateY(-2px);
+}
+
+/* ============================================
+   TAGS & TAXONOMY
+   ============================================ */
+
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.post-tags a {
+    background: var(--slate-100);
+    color: var(--secondary);
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    border: 1px solid var(--border);
+}
+
+.post-tags a:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+:root[data-theme="dark"] .post-tags a {
+    background: var(--slate-800);
+}
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
+
+@media (max-width: 768px) {
+    :root {
+        --gap: 20px;
+        --header-height: 64px;
+        --main-width: 100%;
+    }
+    
+    .home-info {
+        padding: 2rem 1.5rem;
+    }
+    
+    .home-info .Title {
+        font-size: 2rem;
+    }
+    
+    .post-single {
+        padding: 2rem 1.5rem;
+    }
+    
+    .post-header h1 {
+        font-size: 2rem;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+.text-accent {
+    color: var(--accent);
+}
+
+.text-success {
+    color: var(--success);
+}
+
+.text-warning {
+    color: var(--warning);
+}
+
+.text-danger {
+    color: var(--danger);
+}
+
+.bg-accent {
+    background-color: var(--accent);
+}
+
+.bg-success {
+    background-color: var(--success);
+}
+
+.bg-warning {
+    background-color: var(--warning);
+}
+
+.bg-danger {
+    background-color: var(--danger);
+}
+
+/* Stat cards for market data */
+.stat-card {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow-sm);
+}
+
+.stat-card h3 {
+    font-size: 2rem;
+    margin: 0 0 0.5rem 0;
+    color: var(--accent);
+}
+
+.stat-card p {
+    margin: 0;
+    color: var(--secondary);
+    font-size: 0.875rem;
+}
