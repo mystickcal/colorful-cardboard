@@ -1,0 +1,24 @@
+{{- /* Related posts: same category, exclude current, limit 4 */ -}}
+{{- $cats := .Params.categories | default (slice) -}}
+{{- $cat := cond (gt (len $cats) 0) (index $cats 0) "" -}}
+{{- if $cat -}}
+  {{- $pages := where site.RegularPages "Type" "in" (slice "posts" "post") -}}
+  {{- $pages = where $pages "Draft" false -}}
+  {{- $related := where $pages ".Params.categories" "intersect" (slice $cat) -}}
+  {{- $related = where $related ".RelPermalink" "ne" .RelPermalink -}}
+  {{- $related = first 4 (sort $related "Date" "desc") -}}
+
+  {{- if gt (len $related) 0 -}}
+  <aside class="cc-related">
+    <h2 class="cc-related__title">Related</h2>
+    <div class="cc-related__grid">
+      {{- range $related -}}
+        <a class="cc-related__item" href="{{ .RelPermalink }}">
+          <span class="cc-related__item-title">{{ .Title }}</span>
+          <span class="cc-related__item-meta">{{ .Date.Format "Jan 2, 2006" }}</span>
+        </a>
+      {{- end -}}
+    </div>
+  </aside>
+  {{- end -}}
+{{- end -}}

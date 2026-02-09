@@ -21,13 +21,15 @@
 </script>
 
 <article class="post-single cc-single">
-  <header class="post-header">
-    {{- if .Params.cover -}}
-      {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" false) -}}
-    {{- end -}}
-
+  <header class="post-header cc-post-header">
     <h1 class="post-title">{{ .Title }}</h1>
     {{- partial "post_meta.html" . -}}
+
+    {{- if .Params.cover -}}
+      <div class="cc-cover">
+        {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" false) -}}
+      </div>
+    {{- end -}}
   </header>
 
   <div class="cc-single__layout">
@@ -41,6 +43,8 @@
       <div class="post-content">
         {{ .Content }}
       </div>
+
+      {{- partial "cc-related.html" . -}}
 
       {{- if (and site.Params.ShowPostNavLinks (or .NextInSection .PrevInSection)) -}}
         {{- partial "post_nav_links.html" . -}}

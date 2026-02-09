@@ -1,25 +1,24 @@
 {{- /* Custom homepage for Colorful Cardboard (overrides PaperMod) */ -}}
 {{- define "main" -}}
 
-<section class="cc-hero" style="--cc-hero-bg: url('/images/cards-pile-1.jpg');">
+<section class="cc-hero">
   <div class="cc-hero__inner">
-    <p class="cc-hero__kicker">Data-driven Pokemon card investing</p>
-    <h1 class="cc-hero__title">Colorful Cardboard</h1>
-    <p class="cc-hero__tagline">Premium analysis for collectors who want real, repeatable edge.</p>
+    <p class="cc-hero__kicker">Premium Pokemon card analysis</p>
+    <h1 class="cc-hero__title">Data-driven Pokemon card investing</h1>
+    <p class="cc-hero__tagline">Market trends, undervalued picks, and set breakdowns—so you can buy with conviction.</p>
     <div class="cc-hero__cta">
       <a class="cc-btn cc-btn--primary" href="/start-here/">Start Here →</a>
-      <a class="cc-btn cc-btn--ghost" href="/categories/market-analysis/">Browse Market Analysis</a>
     </div>
   </div>
 </section>
 
 <section class="cc-section cc-filter">
-  <div class="cc-filter__bar" role="tablist" aria-label="Filter posts by category">
-    <button class="cc-pill is-active" type="button" data-filter="all">All</button>
-    <button class="cc-pill" type="button" data-filter="market-analysis">Market Analysis</button>
-    <button class="cc-pill" type="button" data-filter="card-picks">Card Picks</button>
-    <button class="cc-pill" type="button" data-filter="set-reviews">Set Reviews</button>
-    <button class="cc-pill" type="button" data-filter="beginners-guide">Beginner's Guide</button>
+  <div class="cc-filter__bar" aria-label="Browse by category">
+    <a class="cc-pill is-active" href="/posts/">All</a>
+    <a class="cc-pill" href="/categories/market-analysis/">Market Analysis</a>
+    <a class="cc-pill" href="/categories/card-picks/">Card Picks</a>
+    <a class="cc-pill" href="/categories/set-reviews/">Set Reviews</a>
+    <a class="cc-pill" href="/categories/beginners-guide/">Beginner's Guide</a>
   </div>
 </section>
 
@@ -67,34 +66,6 @@
     {{- end -}}
   </div>
 
-  <script>
-    (function () {
-      const bar = document.querySelector('.cc-filter__bar');
-      const posts = Array.from(document.querySelectorAll('#cc-posts .cc-post-card'));
-      if (!bar || posts.length === 0) return;
-
-      function setActive(btn) {
-        bar.querySelectorAll('.cc-pill').forEach(b => b.classList.remove('is-active'));
-        btn.classList.add('is-active');
-      }
-
-      function applyFilter(cat) {
-        posts.forEach(p => {
-          const pcat = (p.getAttribute('data-cat') || '').toLowerCase();
-          const show = cat === 'all' || pcat === cat;
-          p.style.display = show ? '' : 'none';
-        });
-      }
-
-      bar.addEventListener('click', (e) => {
-        const btn = e.target.closest('button[data-filter]');
-        if (!btn) return;
-        const cat = btn.getAttribute('data-filter');
-        setActive(btn);
-        applyFilter(cat);
-      });
-    })();
-  </script>
 </section>
 
 <section class="cc-newsletter">
