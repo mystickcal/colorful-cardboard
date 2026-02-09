@@ -1,6 +1,10 @@
 ---
 title: "Pokemon's 30th Anniversary in 2026: The Investor's Preparation Guide"
 date: 2026-02-09
+cover:
+  image: "/images/pokemon-figure-1.jpg"
+  alt: "Pokemon 30th anniversary collectibles"
+  hidden: false
 draft: false
 categories: ["market-analysis"]
 tags: ["30th-anniversary", "2026", "speculation", "vintage", "sealed-product"]

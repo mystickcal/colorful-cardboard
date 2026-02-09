@@ -1,6 +1,10 @@
 ---
 title: "Team Rocket Cards Are Heating Up: Your 2026 Rotation Investment Guide"
 date: 2026-02-09
+cover:
+  image: "/images/cards-pile-1.jpg"
+  alt: "Team Rocket Pokemon cards"
+  hidden: false
 draft: false
 categories: ["market-analysis"]
 tags: ["team-rocket", "standard-rotation", "destined-rivals", "mewtwo-ex", "league-battle-deck"]

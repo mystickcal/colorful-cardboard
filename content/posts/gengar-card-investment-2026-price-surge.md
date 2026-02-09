@@ -1,6 +1,10 @@
 ---
 title: "Why Gengar Cards Are Surging in 2026: A Price Analysis"
 date: 2026-02-09
+cover:
+  image: "/images/pokemon-cards-display.jpg"
+  alt: "Gengar Pokemon cards collection"
+  hidden: false
 draft: false
 categories: ["market-analysis"]
 tags: ["gengar", "price-trends", "fusion-strike", "team-up", "alt-art"]
