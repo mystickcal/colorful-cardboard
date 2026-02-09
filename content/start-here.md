@@ -4,8 +4,8 @@ date: 2026-02-09
 draft: false
 description: "New to Pokemon card investing? Start here for the best beginner resources, category guides, and the most important principles to avoid expensive mistakes."
 cover:
-  image: "/images/trading-cards-general.jpg"
-  alt: "Trading cards and collectibles"
+  image: "/images/pikachu-figure.jpg"
+  alt: "Pikachu plush/figure"
   caption: ""
 ShowToc: true
 ---

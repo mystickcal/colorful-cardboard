@@ -2,8 +2,8 @@
 title: "Beginner's Guide"
 description: "New to Pokemon card investing? Start here for fundamentals, common pitfalls, and a simple strategy you can stick with."
 cover:
-  image: "/images/coins-investment.jpg"
-  alt: "Coins and investing imagery"
+  image: "/images/pokemon-card-closeup.jpg"
+  alt: "Pokemon gaming setup with mood lighting"
   caption: ""
 ---
 

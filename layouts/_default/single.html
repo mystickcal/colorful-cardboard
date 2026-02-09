@@ -1,5 +1,25 @@
 {{- define "main" -}}
 
+<div class="cc-progress" aria-hidden="true"><div class="cc-progress__bar" id="cc-progress-bar"></div></div>
+<script>
+  (function () {
+    const bar = document.getElementById('cc-progress-bar');
+    if (!bar) return;
+
+    function update() {
+      const doc = document.documentElement;
+      const scrollTop = (window.pageYOffset || doc.scrollTop || 0);
+      const height = Math.max(doc.scrollHeight - doc.clientHeight, 1);
+      const pct = Math.min(100, Math.max(0, (scrollTop / height) * 100));
+      bar.style.width = pct.toFixed(2) + '%';
+    }
+
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  })();
+</script>
+
 <article class="post-single cc-single">
   <header class="post-header">
     {{- if .Params.cover -}}

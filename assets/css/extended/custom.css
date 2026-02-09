@@ -307,6 +307,27 @@ a, button, input {
   background: transparent;
 }
 
+/* ========== READING PROGRESS BAR ========== */
+.cc-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 100%;
+  z-index: 9999;
+  background: transparent;
+}
+
+.cc-progress__bar {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, var(--brand-blue), var(--brand-purple));
+}
+
+:root[data-theme="dark"] .cc-progress__bar {
+  background: linear-gradient(90deg, #60A5FA, #A78BFA);
+}
+
 /* ========== SINGLE PAGE LAYOUT + STICKY TOC ========== */
 .cc-single .post-header { margin-bottom: 18px; }
 
