@@ -2,7 +2,7 @@
 title: "Card Picks"
 description: "Specific opportunities: undervalued singles, promos, and sealed targets with clear catalysts and risk notes."
 cover:
-  image: "/images/data-analysis.jpg"
+  image: "/images/pokemon-cards-spread.jpg"
   alt: "Data analysis on charts"
   caption: ""
 ---

@@ -6,7 +6,7 @@ categories: ["beginners-guide"]
 tags: ["grading", "psa", "bgs", "cgc", "gem-mint", "slabs", "beginner"]
 description: "A practical Pokemon card grading guide for beginners. Compare PSA vs BGS vs CGC, learn when grading is worth it, and avoid the most expensive mistakes."
 cover:
-  image: "/images/data-analysis.jpg"
+  image: "/images/pokemon-card-closeup.jpg"
   alt: "Data analysis on a screen"
   caption: ""
 ShowToc: true

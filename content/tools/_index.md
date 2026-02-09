@@ -4,7 +4,7 @@ date: 2026-02-09
 draft: false
 description: "Future calculators and templates for Pokemon card investing (coming soon)."
 cover:
-  image: "/images/investing-chart.jpg"
+  image: "/images/trading-chart.jpg"
   alt: "Investing chart"
   caption: ""
 ---

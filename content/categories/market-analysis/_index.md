@@ -2,7 +2,7 @@
 title: "Market Analysis"
 description: "Rotation impacts, release cycles, reprint risk, and pricing data — macro-level Pokemon TCG investing analysis."
 cover:
-  image: "/images/pokemon-cards-spread.jpg"
+  image: "/images/trading-chart.jpg"
   alt: "Pokemon trading cards spread out on table"
   caption: ""
 ---

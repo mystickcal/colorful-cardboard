@@ -3,7 +3,7 @@ title: "About Colorful Cardboard"
 date: 2026-02-09
 draft: false
 cover:
-  image: "/images/pokemon-cards-display.jpg"
+  image: "/images/pokemon-figure-1.jpg"
   alt: "Pikachu and Squirtle figures displayed outdoors"
   caption: ""
 ShowToc: false

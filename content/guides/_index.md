@@ -4,7 +4,7 @@ date: 2026-02-09
 draft: false
 description: "Beginner-friendly guides and evergreen strategy posts for Pokemon card investors."
 cover:
-  image: "/images/trading-cards-general.jpg"
+  image: "/images/pokemon-cards-spread.jpg"
   alt: "Trading cards on a table"
   caption: ""
 ---

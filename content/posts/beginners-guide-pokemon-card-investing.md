@@ -6,7 +6,7 @@ categories: ["beginners-guide"]
 tags: ["beginner", "investing-basics", "sealed-vs-singles", "getting-started"]
 description: "Everything you need to know to start investing in Pokemon cards. Sealed vs singles, where to buy, what to avoid, and how to think about your first purchases."
 cover:
-  image: "/images/pokemon-card-closeup.jpg"
+  image: "/images/pokeball-closeup.jpg"
   alt: "Close-up of a Pokemon trading card"
   caption: ""
 ShowToc: true
