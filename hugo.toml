@@ -29,7 +29,7 @@ theme = "PaperMod"
   [params.label]
     text = ""
     icon = "/images/logo-premium.png"
-    iconHeight = 60
+    iconHeight = 80
 
   # Social cards defaults
   images = ["/images/pokemon-cards-spread.jpg"]

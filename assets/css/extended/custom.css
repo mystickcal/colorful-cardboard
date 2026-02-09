@@ -66,7 +66,7 @@ a, button, input {
 .logo a {
   color: var(--primary) !important;
   font-weight: 800;
-  font-size: 1.2rem;
+  font-size: 0 !important;
   display: flex;
   align-items: center;
   gap: 0;
@@ -77,11 +77,21 @@ a, button, input {
 }
 
 .logo img {
-  height: 60px !important;
+  height: 80px !important;
   width: auto !important;
 }
 
 .logo a::before { display: none; }
+
+/* Hide footer site name text */
+.footer__site-name {
+  display: none !important;
+}
+
+.footer__logo-img {
+  width: 160px !important;
+  height: auto !important;
+}
 
 #menu a {
   font-size: 0.92rem;
