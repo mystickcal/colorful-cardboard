@@ -1,0 +1,49 @@
+{
+  "lastRun": "2026-02-09T23:00:00Z",
+  "lastRunType": "promoter",
+  "articlesPublished": 10,
+  "articlesUpdated": 0,
+  "pendingTopics": [],
+  "auditIssues": [
+    "No newsletter/email capture CTA — future optimization needed",
+    "Articles lack explicit end-of-post CTAs — could add 'Related Reading' sections"
+  ],
+  "keywordBank": [
+    "pokemon card investing",
+    "undervalued pokemon cards",
+    "gengar investment",
+    "pokemon 30th anniversary",
+    "standard rotation pokemon"
+  ],
+  "promotionLog": [
+    {
+      "date": "2026-02-09T23:00:00Z",
+      "runType": "promoter",
+      "actions": [
+        "Reddit: 3 posts scheduled (r/PokemonInvesting) - undervalued cards, Gengar surge, beginner guide",
+        "Facebook: 2 posts scheduled (OMG It's Derek page) - undervalued cards, Gengar surge",
+        "Backlink prospecting: identified totalcards.net, unboxedtheboardgameblog.com as targets"
+      ]
+    }
+  ],
+  "backlinkProspects": [
+    {
+      "site": "totalcards.net",
+      "type": "Pokemon/TCG blog",
+      "notes": "Active blog, accepts news/analysis. Potential guest post or collaboration.",
+      "priority": "high"
+    },
+    {
+      "site": "unboxedtheboardgameblog.com",
+      "type": "Board/card game reviews",
+      "notes": "Accepts guest posts from designers. Could pitch investment angle.",
+      "priority": "medium"
+    }
+  ],
+  "weeklyRotation": {
+    "competitorSnapshot": null,
+    "backlinkProspecting": "2026-02-09",
+    "uxAudit": null,
+    "deepLinkAudit": null
+  }
+}
