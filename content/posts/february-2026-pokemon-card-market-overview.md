@@ -26,7 +26,7 @@ Why does this matter for investors? Print runs on these sets are stopping or hav
 
 ### 2. Mega Evolution Returns
 
-The Mega Evolution expansion dropped January 30 with **Ascended Heroes**, and **Perfect Order** follows on March 27. The market is already reacting. 
+The Mega Evolution expansion dropped January 30 with **Ascended Heroes**, and **Perfect Order** follows on March 27. The market is already reacting. If you want the full rundown on release date and early card list, I broke it out here: [Perfect Order release date guide](/posts/perfect-order-pokemon-tcg-release-date-2026/).
 
 Mega Lucario ex Hyper sits around $316. Mega Gardevoir ex Hyper is at $257. These are real numbers for a set that's barely a week old. When the English version of Mega Gengar ex SAR drops (currently $460 raw in Japanese), expect fireworks.
 

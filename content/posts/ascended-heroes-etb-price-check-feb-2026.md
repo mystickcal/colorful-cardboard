@@ -51,7 +51,7 @@ If you want broader context on how the market’s been moving overall, read the 
 
 Here’s the key date: **Ascended Heroes ETBs are due to release on Feb 20, 2026.**
 
-And Ascended Heroes product releases have been talked about as **staggered**, with waves running roughly **Feb 20 through Apr 24**.
+And Ascended Heroes product releases have been talked about as **staggered**, with waves running roughly **Feb 20 through Apr 24**. I broke down the full timeline here: [Ascended Heroes product release schedule](/posts/ascended-heroes-product-release-schedule-2026/).
 
 Translation:
 
