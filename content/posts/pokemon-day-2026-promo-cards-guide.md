@@ -22,6 +22,10 @@ keywords:
   - Pokemon promo cards
   - Pokemon card collecting
 author: "Derek from Click Consultants"
+cover:
+  image: "/images/posts/pokemon-display.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 Pokemon Day is almost here, and if you're a parent, collector, or investor, you're probably wondering what promo cards are coming this year and whether they're worth the effort to track down. February 27th marks the annual celebration of all things Pokemon, and The Pokemon Company has announced special promo cards that will be available through multiple channels.

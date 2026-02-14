@@ -5,6 +5,10 @@ description: "Everything we know about the Nihil Zero Japanese Pokemon set relea
 keywords: ["Nihil Zero release date", "Nihil Zero Japanese set", "Pokemon Nihil Zero booster box", "Japanese Pokemon set January 2026", "Nihil Zero card list"]
 categories: ["Japanese Pokemon Cards", "Pokemon Investing"]
 draft: false
+cover:
+  image: "/images/japan-street.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 If you've been collecting Pokemon cards for more than a few months, you already know the drill: Japanese sets drop first, English collectors pay attention, and the chase cards that blow up in Japan often become the grails everyone's hunting when the English version hits shelves 3-4 months later.

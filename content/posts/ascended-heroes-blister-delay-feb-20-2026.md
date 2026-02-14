@@ -6,6 +6,10 @@ keywords: ["ascended heroes two-pack blister delay", "erika tangela promo", "lar
 categories: ["Pokemon TCG", "News"]
 tags: ["Ascended Heroes", "blister packs", "release delays", "Erika", "Larry"]
 draft: false
+cover:
+  image: "/images/posts/pokemon-booster-packs.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 The Pokémon Company just pushed the Ascended Heroes Erika and Larry 2-pack blisters to February 20 in the US and Canada. Originally slated for an earlier launch, this delay compresses the product rollout window and could make launch week pickups trickier than usual.

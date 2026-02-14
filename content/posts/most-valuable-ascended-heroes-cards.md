@@ -18,6 +18,10 @@ keywords:
   - Ascended Heroes chase cards
   - Mega Gengar ex 284/217
   - Mega Charizard Y ex 294/217
+cover:
+  image: "/images/cards-pile-1.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 Ascended Heroes pricing is doing that classic early-set thing where one day you’re like "wow that’s expensive" and the next day you’re like "why is this basically a car payment".

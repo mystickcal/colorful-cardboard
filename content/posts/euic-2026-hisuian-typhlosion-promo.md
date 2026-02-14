@@ -6,6 +6,10 @@ description: "Everything you need to know about the EUIC 2026 Hisuian Typhlosion
 keywords: ["EUIC 2026 promo card", "Hisuian Typhlosion promo", "Pokemon EUIC stream rewards", "Pokemon TCG Live EUIC rewards"]
 categories: ["Pokemon TCG", "Promo Cards", "Collecting"]
 tags: ["EUIC 2026", "Hisuian Typhlosion", "stream rewards", "promo cards"]
+cover:
+  image: "/images/pokemon-cards-display.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 So the European International Championships are coming up, and if you're a Pokemon TCG collector or even just someone who plays casually, you're probably wondering about those sweet stream rewards. This year's promo is a Hisuian Typhlosion card, and honestly, it's one of the more interesting giveaways we've seen in a while.

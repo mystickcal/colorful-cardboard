@@ -6,6 +6,10 @@ description: "Everything you need to know about the Pokemon Day 2026 Bulbasaur L
 keywords: ["pokemon day 2026 bulbasaur promo", "pokemon day 2026 league promo", "how to get bulbasaur pokemon day card", "pokemon day 2026 stamp"]
 categories: ["Pokemon TCG", "Promo Cards", "News"]
 tags: ["Pokemon Day 2026", "Bulbasaur", "League Promo", "Event Cards"]
+cover:
+  image: "/images/posts/pikachu-figure.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 The Pokemon Day 2026 League promos are confirmed, and this year's Bulbasaur card is turning heads. With a special 30th anniversary stamp and reverse holo treatment, it's already generating buzz among collectors. Here's everything you need to know about getting your hands on one and what it might be worth.

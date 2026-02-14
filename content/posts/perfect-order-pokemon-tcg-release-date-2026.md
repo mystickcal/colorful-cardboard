@@ -6,6 +6,10 @@ description: "Everything we know about Pokemon TCG Perfect Order release date (M
 keywords: ["perfect order pokemon tcg release date", "mega evolution perfect order", "perfect order set 2026", "perfect order preorder", "mega zygarde ex card"]
 categories: ["Pokemon TCG", "Set Releases"]
 tags: ["Perfect Order", "Mega Evolution", "2026 Sets", "Preorders", "Investment"]
+cover:
+  image: "/images/posts/pokemon-booster-packs.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 Perfect Order is shaping up to be one of the most anticipated Pokemon TCG sets of 2026, and for good reason. After years of waiting, Mega Evolution mechanics are making a full comeback in the trading card game, timed perfectly with the upcoming *Pokemon Legends: Z-A* video game release.

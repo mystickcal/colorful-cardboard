@@ -13,6 +13,10 @@ tags:
   - Tech Sticker Collection
   - Product Guide
 draft: false
+cover:
+  image: "/images/posts/pokemon-booster-packs.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 The Pokémon TCG Ascended Heroes expansion hit shelves on January 30, 2026, but the full product lineup is rolling out in waves through April. If you're trying to figure out when you can actually buy that Elite Trainer Box or whether the Tech Sticker Collection is worth tracking down, here's everything you need to know about the Ascended Heroes release schedule and which products deserve your money.

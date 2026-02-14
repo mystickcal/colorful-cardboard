@@ -19,6 +19,10 @@ keywords:
   - Ascended Heroes ETB MSRP
   - Ascended Heroes ETB release date
   - Ascended Heroes ETB GameStop 99.99
+cover:
+  image: "/images/posts/pokemon-booster-packs.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 Ascended Heroes has that "special set" energy where it feels like every box is either **instantly sold out** or **instantly overpriced**.

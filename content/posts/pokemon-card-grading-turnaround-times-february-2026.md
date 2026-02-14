@@ -4,6 +4,10 @@ description: "Current grading turnaround times for Pokemon cards in February 202
 date: 2026-02-12T23:10:00-05:00
 categories: ["Grading"]
 tags: ["PSA", "BGS", "CGC", "grading turnaround times", "2026"]
+cover:
+  image: "/images/pokemon-card-closeup.jpg"
+  alt: "Featured image"
+  relative: false
 ---
 
 Okay so look if you're sitting on some raw Pokemon cards right now wondering whether to send them in for grading you know the FIRST question is always how long is this gonna take because grading turnaround times can make or break whether something is worth grading especially with prices moving as fast as they do in this market.
