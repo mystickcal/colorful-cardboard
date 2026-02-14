@@ -696,8 +696,42 @@ a, button, input {
   font-size: 0.7em;
 }
 
+/* ========== COVER IMAGE FIX — Proper cropping on list pages ========== */
+/* Ensures cover images show their center (faces, important content) */
+/* instead of being cut off at top/bottom on the homepage grid */
+.post-entry .entry-cover {
+  overflow: hidden;
+  max-height: 220px;
+}
+
+.post-entry .entry-cover img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: center center;
+}
+
+/* First entry (hero post) gets more image height */
+.first-entry .entry-cover {
+  overflow: hidden;
+  max-height: 360px;
+}
+
+.first-entry .entry-cover img {
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  object-position: center center;
+}
+
 /* ========== Small screens spacing tweaks ========== */
 @media (max-width: 768px) {
   .cc-section { padding: 28px 0; }
   body { font-size: 16.5px; }
+  
+  .post-entry .entry-cover,
+  .post-entry .entry-cover img {
+    max-height: 180px;
+    height: 180px;
+  }
 }

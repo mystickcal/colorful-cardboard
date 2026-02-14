@@ -6,7 +6,7 @@ keywords: ["Nihil Zero release date", "Nihil Zero Japanese set", "Pokemon Nihil 
 categories: ["Japanese Pokemon Cards", "Pokemon Investing"]
 draft: false
 cover:
-  image: "/images/japan-street.jpg"
+  image: "/images/posts/nihil-zero-japanese.jpg"
   alt: "Featured image"
   relative: false
 ---

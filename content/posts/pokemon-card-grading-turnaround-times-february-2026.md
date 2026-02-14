@@ -5,7 +5,7 @@ date: 2026-02-12T23:10:00-05:00
 categories: ["Grading"]
 tags: ["PSA", "BGS", "CGC", "grading turnaround times", "2026"]
 cover:
-  image: "/images/pokemon-card-closeup.jpg"
+  image: "/images/posts/grading-turnaround.jpg"
   alt: "Featured image"
   relative: false
 ---

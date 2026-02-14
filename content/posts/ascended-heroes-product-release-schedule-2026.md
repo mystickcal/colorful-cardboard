@@ -14,7 +14,7 @@ tags:
   - Product Guide
 draft: false
 cover:
-  image: "/images/posts/pokemon-booster-packs.jpg"
+  image: "/images/posts/ascended-heroes-products.jpg"
   alt: "Featured image"
   relative: false
 ---

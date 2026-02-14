@@ -2,7 +2,7 @@
 title: "Why Gengar Cards Are Surging in 2026: A Price Analysis"
 date: 2026-02-09
 cover:
-  image: "/images/pokemon-cards-display.jpg"
+  image: "/images/posts/gengar-cards-surge.jpg"
   alt: "Gengar Pokemon cards collection"
   hidden: false
 draft: false

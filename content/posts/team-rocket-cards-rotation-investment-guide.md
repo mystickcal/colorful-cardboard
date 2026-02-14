@@ -2,7 +2,7 @@
 title: "Team Rocket Cards Are Heating Up: Your 2026 Rotation Investment Guide"
 date: 2026-02-09
 cover:
-  image: "/images/cards-pile-1.jpg"
+  image: "/images/posts/team-rocket-cards.jpg"
   alt: "Team Rocket Pokemon cards"
   hidden: false
 draft: false

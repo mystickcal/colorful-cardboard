@@ -7,7 +7,7 @@ keywords: ["perfect order pokemon tcg release date", "mega evolution perfect ord
 categories: ["Pokemon TCG", "Set Releases"]
 tags: ["Perfect Order", "Mega Evolution", "2026 Sets", "Preorders", "Investment"]
 cover:
-  image: "/images/posts/pokemon-booster-packs.jpg"
+  image: "/images/posts/perfect-order-mega.jpg"
   alt: "Featured image"
   relative: false
 ---

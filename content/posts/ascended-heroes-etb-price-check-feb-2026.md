@@ -20,7 +20,7 @@ keywords:
   - Ascended Heroes ETB release date
   - Ascended Heroes ETB GameStop 99.99
 cover:
-  image: "/images/posts/pokemon-booster-packs.jpg"
+  image: "/images/posts/ascended-heroes-etb.jpg"
   alt: "Featured image"
   relative: false
 ---

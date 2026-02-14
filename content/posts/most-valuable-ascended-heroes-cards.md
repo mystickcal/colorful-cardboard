@@ -19,7 +19,7 @@ keywords:
   - Mega Gengar ex 284/217
   - Mega Charizard Y ex 294/217
 cover:
-  image: "/images/cards-pile-1.jpg"
+  image: "/images/posts/valuable-ascended-cards.jpg"
   alt: "Featured image"
   relative: false
 ---

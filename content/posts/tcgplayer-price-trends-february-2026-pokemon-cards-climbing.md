@@ -8,7 +8,7 @@ tags: ["Pokemon TCG", "Price Trends", "TCGPlayer", "Card Investing", "Market Ana
 categories: ["Pokemon Cards", "Market Analysis"]
 keywords: ["pokemon cards climbing in price", "TCGPlayer price trends", "pokemon card price spikes", "pokemon card investing 2026"]
 cover:
-  image: "/images/trading-chart.jpg"
+  image: "/images/posts/tcgplayer-price-trends.jpg"
   alt: "Featured image"
   relative: false
 ---
