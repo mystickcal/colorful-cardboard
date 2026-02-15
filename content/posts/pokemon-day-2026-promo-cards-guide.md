@@ -60,13 +60,13 @@ You don't need to be a competitive player to participate. Most leagues welcome f
 
 ### Retail Product Collections
 
-The Pikachu stamp promo card is included in a special Pokemon Day 2026 collection box available at major retailers like Target, Walmart, GameStop, and specialty card shops. These collections typically include:
-- The exclusive Pikachu stamp promo card
-- Several booster packs from recent sets
-- A collectible pin or coin
+The stamped Pikachu promo is included in the **Pokemon Day 2026 Collection**, which has been showing up at major retailers and some local card shops. The official MSRP is **$14.99**, and the product includes:
+- The exclusive stamped Pikachu promo card
+- 3 booster packs
+- A 30th anniversary coin
 - A code card for Pokemon TCG Live
 
-These collection boxes usually retail between $25-35 depending on the retailer and included packs. They started appearing on shelves in early February, but availability varies significantly by location. If you're hunting for one, calling ahead or checking online inventory can save you a wasted trip.
+Because it's a cheap MSRP item, it can look "sold out forever" for a week and then randomly show up everywhere. If you're hunting for one, calling ahead or checking online inventory can save you a wasted trip.
 
 ### Online Options
 
