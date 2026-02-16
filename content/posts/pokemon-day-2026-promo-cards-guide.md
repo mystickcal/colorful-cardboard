@@ -23,8 +23,8 @@ keywords:
   - Pokemon card collecting
 author: "Derek from Click Consultants"
 cover:
-  image: "/images/posts/pokemon-display.jpg"
-  alt: "Featured image"
+  image: "/images/bulbasaur-pokemon-day-2026.jpg"
+  alt: "Bulbasaur promo card for Pokemon Day 2026"
   relative: false
 ---
 

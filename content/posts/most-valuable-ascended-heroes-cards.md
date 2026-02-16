@@ -19,8 +19,8 @@ keywords:
   - Mega Gengar ex 284/217
   - Mega Charizard Y ex 294/217
 cover:
-  image: "/images/posts/valuable-ascended-cards.jpg"
-  alt: "Featured image"
+  image: "/images/mega-gengar-ex-ascended-heroes.jpg"
+  alt: "Mega Gengar ex special illustration rare card from Pokemon TCG Ascended Heroes"
   relative: false
 ---
 

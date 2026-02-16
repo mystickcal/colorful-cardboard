@@ -20,8 +20,8 @@ keywords:
   - Ascended Heroes ETB release date
   - Ascended Heroes ETB GameStop 99.99
 cover:
-  image: "/images/posts/ascended-heroes-etb.jpg"
-  alt: "Featured image"
+  image: "/images/ascended-heroes-dragonite-pack.jpg"
+  alt: "Pokemon TCG Ascended Heroes booster pack featuring Mega Dragonite"
   relative: false
 ---
 
