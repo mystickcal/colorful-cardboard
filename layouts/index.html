@@ -48,6 +48,9 @@
             {{- $img = .image -}}
           {{- end -}}
           {{- if $img -}}
+            {{- if not (hasPrefix $img "/") -}}
+              {{- $img = printf "/%s" $img -}}
+            {{- end -}}
             <div class="cc-post-card__thumb" style="--cc-thumb-bg: url('{{ $img }}');"></div>
           {{- else -}}
             <div class="cc-post-card__thumb cc-post-card__thumb--fallback"></div>
