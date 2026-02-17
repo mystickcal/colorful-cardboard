@@ -7,8 +7,8 @@ categories: ["Pokemon TCG", "News"]
 tags: ["Ascended Heroes", "blister packs", "release delays", "Erika", "Larry"]
 draft: false
 cover:
-  image: "/images/posts/ascended-heroes-blister.jpg"
-  alt: "Featured image"
+  image: "/images/posts/ascended-heroes-blister-2pack.jpg"
+  alt: "Ascended Heroes Erika and Larry 2-Pack Blister"
   relative: false
 ---
 

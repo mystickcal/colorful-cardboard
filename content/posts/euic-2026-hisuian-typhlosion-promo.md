@@ -7,8 +7,8 @@ keywords: ["EUIC 2026 promo card", "Hisuian Typhlosion promo", "Pokemon EUIC str
 categories: ["Pokemon TCG", "Promo Cards", "Collecting"]
 tags: ["EUIC 2026", "Hisuian Typhlosion", "stream rewards", "promo cards"]
 cover:
-  image: "/images/pokemon-cards-display.jpg"
-  alt: "Featured image"
+  image: "/images/posts/hisuian-typhlosion-promo.jpg"
+  alt: "Hisuian Typhlosion Promo Card"
   relative: false
 ---
 

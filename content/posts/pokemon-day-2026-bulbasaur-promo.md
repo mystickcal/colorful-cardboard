@@ -7,8 +7,8 @@ keywords: ["pokemon day 2026 bulbasaur promo", "pokemon day 2026 league promo", 
 categories: ["Pokemon TCG", "Promo Cards", "News"]
 tags: ["Pokemon Day 2026", "Bulbasaur", "League Promo", "Event Cards"]
 cover:
-  image: "/images/posts/pikachu-figure.jpg"
-  alt: "Featured image"
+  image: "/images/posts/bulbasaur-151-illustration-rare.jpg"
+  alt: "Bulbasaur Illustration Rare Card"
   relative: false
 ---
 

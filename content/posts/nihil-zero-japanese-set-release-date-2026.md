@@ -7,7 +7,7 @@ categories: ["Japanese Pokemon Cards", "Pokemon Investing"]
 draft: false
 cover:
   image: "/images/posts/nihil-zero-japanese.jpg"
-  alt: "Featured image"
+  alt: "Nihil Zero Japanese Booster Box"
   relative: false
 ---
 

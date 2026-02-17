@@ -14,8 +14,8 @@ tags:
   - Product Guide
 draft: false
 cover:
-  image: "/images/posts/ascended-heroes-products.jpg"
-  alt: "Featured image"
+  image: "/images/posts/ascended-heroes-etb.jpg"
+  alt: "Ascended Heroes Elite Trainer Box"
   relative: false
 ---
 

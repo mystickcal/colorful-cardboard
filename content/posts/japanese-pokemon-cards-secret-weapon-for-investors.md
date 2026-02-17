@@ -6,8 +6,8 @@ categories: ["market-analysis"]
 tags: ["japanese", "jp", "investment-strategy", "sealed", "promos", "pokemon-center-japan"]
 description: "Japanese Pokemon cards can offer cleaner print quality, different supply dynamics, and exclusive promos. Here’s how investors use JP product as an edge."
 cover:
-  image: "/images/japan-street.jpg"
-  alt: "Pokemon figure on a desk"
+  image: "/images/posts/japanese-151-booster-box.jpg"
+  alt: "Japanese Pokemon 151 Booster Box"
   caption: ""
 ShowToc: true
 ---

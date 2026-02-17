@@ -6,8 +6,8 @@ categories: ["market-analysis"]
 tags: ["promo-cards", "event-exclusives", "investment-strategy", "scarcity", "prerelease"]
 description: "Event promo cards offer structural scarcity, seasonal demand cycles, and zero reprint risk. Here's why they're one of the safest plays in the Pokemon card market."
 cover:
-  image: "/images/colorful-abstract.jpg"
-  alt: "Close-up of a Pokeball"
+  image: "/images/posts/pokemon-worlds-promo-2025.jpg"
+  alt: "Pokemon World Championships Promo Card"
   caption: ""
 ShowToc: true
 ---
