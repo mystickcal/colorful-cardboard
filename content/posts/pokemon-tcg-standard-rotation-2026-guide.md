@@ -88,6 +88,8 @@ That overlap can create sharp, short moves on playable singles.
 If you are trading this window, read our full update here:
 [Ascended Heroes legality buying guide](/posts/ascended-heroes-legal-date-march-6-2026-buying-guide/)
 
+For the specific sell timing and investor-focused checklist view of the same rotation, this companion post goes deeper on which cards to move and when: [Pokemon TCG Rotation 2026: Sell Before April 10, Buy After](/posts/pokemon-tcg-rotation-2026-sell-buy-checklist/).
+
 ## What To Buy and What To Avoid (Collector Version)
 
 ### Buy

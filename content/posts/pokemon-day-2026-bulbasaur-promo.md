@@ -40,7 +40,7 @@ For more context on how Pokemon Day promos work, check out our full [Pokemon Day
 
 The Bulbasaur promo isn't the only goodie available at Pokemon League events on February 27. Stores typically offer additional prizes and promotional items like Pokemon Day 2026 sticker sets, league prize packs with boosters, the Pokemon Day 2026 Collection product, Elite Trainer Boxes, and little participation rewards like deck boxes or sleeves, depending on the store.
 
-The [Pokemon Day 2026 Collection](https://www.amazon.com/dp/PRODUCTID?tag=colorfulcardboard-20) includes themed products you can purchase alongside the free promo. These collections often bundle exclusive items with standard booster packs, making them attractive for collectors who want the full Pokemon Day experience.
+The [Pokemon Day 2026 Collection](https://www.amazon.com/s?k=pokemon+day+2026+collection&tag=colorfulcardboard-20) includes themed products you can purchase alongside the free promo. These collections often bundle exclusive items with standard booster packs, making them attractive for collectors who want the full Pokemon Day experience.
 
 Availability for these extras depends entirely on the store's inventory and how they choose to distribute prizes. Some locations go all-out with raffles and giveaways, while others keep it simple with the promo card handout.
 

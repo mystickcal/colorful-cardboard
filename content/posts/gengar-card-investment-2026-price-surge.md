@@ -95,6 +95,8 @@ The Gengar price surge is real, and it's based on fundamentals: cross-generation
 
 If you're buying Gengar cards right now, **know what you're buying and why**. Don't chase prices after 30-day gains. Look for cards that haven't pumped yet but have the same underlying demand drivers. And if you already own high-grade Gengar cards from Fusion Strike or Team Up? Congrats. You're sitting on generational wealth in cardboard form.
 
+For a deeper dive on the case for Gengar as a long-term investment — beyond just the current price action — read this: [Why Gengar Cards Are the Best Pokemon TCG Investment You're Ignoring in 2026](/posts/gengar-pokemon-card-investment-2026/). And for context on which cards across the whole market are moving right now, see our [TCGPlayer Price Trends February 2026](/posts/tcgplayer-price-trends-february-2026-pokemon-cards-climbing/) roundup.
+
 ---
 
 *This is analysis, not financial advice. Do your own research before making any collectible card investment.*

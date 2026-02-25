@@ -111,7 +111,7 @@ Don't expect this to be a massive gainer in the short term. If you're looking fo
 
 But if you like the card, the art, the Pokemon, and you want it in your collection? Go for it. That's what this hobby is supposed to be about anyway.
 
-If you do decide to buy, here's a convenient [eBay search for Hisuian Typhlosion promo listings](https://www.ebay.com/sch/i.html?_nkw=hisuian+typhlosion+promo&mkcid=1&campid=5339142051&toolid=10001) so you can compare prices. You can also check Amazon for [Pokemon TCG supplies and related products](https://www.amazon.com/dp/PRODUCTID?tag=colorfulcardboard-20) if you're stocking up.
+If you do decide to buy, here's a convenient [eBay search for Hisuian Typhlosion promo listings](https://www.ebay.com/sch/i.html?_nkw=hisuian+typhlosion+promo&mkcid=1&campid=5339142051&toolid=10001) so you can compare prices. You can also check Amazon for [Pokemon TCG supplies and related products](https://www.amazon.com/s?k=pokemon+tcg+supplies&tag=colorfulcardboard-20) if you're stocking up.
 
 ## Risk and Volatility: What to Watch For
 

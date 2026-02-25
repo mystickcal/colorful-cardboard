@@ -101,7 +101,7 @@ Also worth checking out: our [TCGPlayer price trends for February 2026](/posts/t
 
 ## Affiliate Links & Where to Buy
 
-**Amazon:** [Ascended Heroes Elite Trainer Box](https://www.amazon.com/dp/B0DEXAMPLE1?tag=colorfulcardboard-20) | [Tech Sticker Collection Charmander](https://www.amazon.com/dp/B0DEXAMPLE2?tag=colorfulcardboard-20) | [Tech Sticker Collection Ghastly](https://www.amazon.com/dp/B0DEXAMPLE3?tag=colorfulcardboard-20)
+**Amazon:** [Search Ascended Heroes ETB on Amazon](https://www.amazon.com/s?k=ascended+heroes+elite+trainer+box+pokemon&tag=colorfulcardboard-20) | [Search Tech Sticker Collection on Amazon](https://www.amazon.com/s?k=pokemon+tech+sticker+collection+ascended+heroes&tag=colorfulcardboard-20) [VERIFY: replace with direct ASIN links when available]
 
 **eBay:** [Search Ascended Heroes ETB](https://www.ebay.com/sch/i.html?_nkw=Ascended+Heroes+Elite+Trainer+Box&mkcid=1&campid=5339142051&toolid=10001) | [Search Tech Sticker Collection](https://www.ebay.com/sch/i.html?_nkw=Ascended+Heroes+Tech+Sticker+Collection&mkcid=1&campid=5339142051&toolid=10001)
 

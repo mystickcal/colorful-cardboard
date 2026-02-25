@@ -33,7 +33,7 @@ Let's talk strategy, because this is where a lot of collectors either make smart
 
 The best time to preorder is usually 2-4 weeks before release when retailers have locked in their allocations but hype hasn't peaked yet. Japanese booster boxes tend to run $40-$70 USD depending on the set and print run size. Nihil Zero pricing isn't confirmed yet, but expect it to fall somewhere in that range.
 
-You can track preorders and listings on [eBay here](https://www.ebay.com/sch/i.html?_nkw=nihil+zero+pokemon+booster+box&mkcid=1&campid=5339142051&toolid=10001) or check Amazon ([link](https://www.amazon.com/dp/PRODUCTID?tag=colorfulcardboard-20)) once listings go live.
+You can track preorders and listings on [eBay here](https://www.ebay.com/sch/i.html?_nkw=nihil+zero+pokemon+booster+box&mkcid=1&campid=5339142051&toolid=10001) or check [Amazon for Nihil Zero listings](https://www.amazon.com/s?k=nihil+zero+pokemon&tag=colorfulcardboard-20) once they go live.
 
 **Import risks to watch:**
 

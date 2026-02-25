@@ -146,3 +146,5 @@ The play right now:
 Check current Mega Gengar ex SIR prices on [TCGPlayer](https://www.tcgplayer.com) or recent sold listings on [eBay](https://www.ebay.com/sch/i.html?_nkw=mega+gengar+ex+sir+ascended+heroes&LH_Sold=1&LH_Complete=1) before pulling the trigger.
 
 The Gengar collector premium is real. The question is whether you pay for it at the right time.
+
+For the current price action specifically — which Gengar cards are surging right now and the short-term timing analysis — see our companion piece: [Why Gengar Cards Are Surging in 2026: A Price Analysis](/posts/gengar-card-investment-2026-price-surge/).

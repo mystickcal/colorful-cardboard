@@ -116,6 +116,8 @@ And remember you know just because you CAN grade a card doesn't mean you SHOULD 
 
 Grade the chase cards, keep the bulk raw, and don't fall for the trap of thinking everything needs to be slabbed because the market has spoken and low-to-mid-grade slabs on common cards are basically worthless right now.
 
+And if you're factoring grading into your investment math, make sure you're working off current fee numbers — PSA updated their pricing in February 2026 and the math has shifted a bit. Full breakdown here: [PSA Grading Pricing Update February 2026](/posts/psa-grading-price-increase-february-2026/).
+
 *Disclaimer: This content is for informational and entertainment purposes only. It is not financial or investment advice. Card prices fluctuate and past performance doesn't guarantee future results. Always do your own research before buying or selling.*
 
 *Affiliate Disclosure: This post contains affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you.*

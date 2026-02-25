@@ -60,7 +60,7 @@ If you see a pre-order link for the Erika or Larry blisters at MSRP, grab it. Wa
 
 Your best shot for fair pricing is still local game stores, but Target, Walmart, and GameStop are worth checking early on launch day since they sometimes get allocations the online listings miss. Online marketplaces like Amazon, TCGPlayer, and eBay can work too, just be picky about seller ratings and avoid obvious price gouging.
 
-If you're shopping online, keep an eye on the [eBay search for Ascended Heroes Erika Larry blisters](https://www.ebay.com/sch/i.html?_nkw=ascended+heroes+erika+larry+blister&mkcid=1&campid=5339142051&toolid=10001) and the [Amazon Ascended Heroes ETB](https://www.amazon.com/dp/PRODUCTID?tag=colorfulcardboard-20) listing as a quick price baseline.
+If you're shopping online, keep an eye on the [eBay search for Ascended Heroes Erika Larry blisters](https://www.ebay.com/sch/i.html?_nkw=ascended+heroes+erika+larry+blister&mkcid=1&campid=5339142051&toolid=10001) and the [eBay search for Ascended Heroes ETB](https://www.ebay.com/sch/i.html?_nkw=ascended+heroes+elite+trainer+box+pokemon&mkcid=1&campid=5339142051&toolid=10001) listing as a quick price baseline.
 
 ### MSRP vs Resale: Know the Difference
 
