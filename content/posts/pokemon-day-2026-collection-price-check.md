@@ -117,12 +117,22 @@ Use this like a sanity filter.
 - You suspect a restock wave is coming (it usually is)
 - You are trying to buy for retail, not win an auction war
 
-## Affiliate link placeholders (sealed + promo)
+## Where to Buy the Pokemon Day 2026 Collection
 
-- [AFFILIATE: TCGPlayer link for Pokemon Day 2026 Collection]
-- [AFFILIATE: eBay search link for Pokemon Day 2026 Collection]
-- [AFFILIATE: TCGPlayer link for Pokemon Day 2026 Pikachu promo]
-- [AFFILIATE: eBay search link for Pokemon Day 2026 promo card]
+{{< buy-box title="Pokemon Day 2026 Collection (Pikachu Stamp Promo)" msrp="$14.99" rating="4.2" >}}
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=pokemon+day+2026+collection&utm_campaign=affiliate&utm_medium=colorfulcardboard&utm_source=colorfulcardboard-20) | Market price | Best for sealed product price tracking |
+| [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+day+2026+collection&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339069183&toolid=10001) | Varies | Check for Buy It Now at MSRP |
+| [Amazon](https://www.amazon.com/s?k=pokemon+day+2026+collection&tag=colorfulcardboard-20) | Varies | Check Prime listings for fast shipping |
+{{< /buy-box >}}
+
+{{< buy-box title="Pokemon Day 2026 Pikachu Promo Card (Single)" >}}
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=pokemon+day+2026+pikachu+promo&utm_campaign=affiliate&utm_medium=colorfulcardboard&utm_source=colorfulcardboard-20) | Market price | Best real-time pricing on the single |
+| [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+day+2026+pikachu+promo+card&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339069183&toolid=10001) | Varies | Compare sellers; check for PSA copies |
+{{< /buy-box >}}
 
 ## FAQ
 

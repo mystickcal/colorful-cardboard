@@ -111,6 +111,16 @@ Different risk profiles. Ascended Heroes was the largest English Pokemon TCG set
 **What's the exit strategy for Perfect Order sealed?**
 For short-term (flip): sell before May 1 as Chaos Rising marketing starts. For medium-term (hold): watch whether the set's chase cards hold their JP price floors. If Mega Zygarde ex SIR is trading at $200+ in English by May, the thesis is working. If it's under $150, reevaluate.
 
+{{< buy-box >}}
+**Buy Perfect Order Booster Box:** [Amazon](https://www.amazon.com/s?k=pokemon+perfect+order+booster+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+perfect+order+booster+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=perfect+order+booster+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | MSRP ~$143.64 — avoid inflated 3P sellers |
+| eBay | ~$110-180 | Use sold listings to gauge real market price |
+| TCGPlayer | Check price | Best for singles; limited sealed inventory |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 Perfect Order is a compelling sealed product play *at MSRP*. The set's tight card pool, high SIR density, and strong JP price floors give you more confidence in the floor than a large-set gamble like Obsidian Flames or Paldea Evolved.

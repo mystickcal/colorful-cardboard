@@ -200,6 +200,16 @@ When Perfect Order singles start hitting the secondary market after launch, TCGP
 
 ---
 
+{{< buy-box >}}
+**Buy Perfect Order Singles + Sealed:** [Amazon](https://www.amazon.com/s?k=pokemon+perfect+order&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+perfect+order+singles&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=perfect+order)
+
+| Retailer | Best For | Notes |
+|----------|----------|-------|
+| TCGPlayer | Chase card singles | Best pricing transparency; check market price before buying |
+| eBay | Bulk singles + sealed | Filter sold listings for real market value |
+| Amazon | Sealed ETBs + tins | Check price — verify seller before purchase |
+{{< /buy-box >}}
+
 The JP price floor model is the most underused tool in the English collector's arsenal. Five weeks of real sales data from Nullifying Zero is sitting there, and most buyers are still going to walk into prerelease weekend flying blind, paying hype premiums, and wondering why their singles are worth less six weeks later.
 
 You don't have to be that buyer.

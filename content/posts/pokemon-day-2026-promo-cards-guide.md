@@ -159,6 +159,23 @@ The Pokemon Day collection box with the Pikachu stamp card makes for an excellen
 
 Whether these cards end up being worth $5 or $50 in the future doesn't really matter. What matters is the time we spend together and the memories we're building around a shared hobby.
 
+## Where to Buy Pokemon Day 2026 Promo Cards
+
+{{< buy-box title="Pokemon Day 2026 Collection (Pikachu Stamp Promo)" msrp="$14.99" rating="4.2" >}}
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=pokemon+day+2026+collection&utm_campaign=affiliate&utm_medium=colorfulcardboard&utm_source=colorfulcardboard-20) | Market price | Best for real-time sealed pricing |
+| [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+day+2026+collection&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339069183&toolid=10001) | Varies | Find Buy It Now at or near MSRP |
+| [Amazon](https://www.amazon.com/s?k=pokemon+day+2026+collection&tag=colorfulcardboard-20) | Varies | Check for Prime-eligible listings |
+{{< /buy-box >}}
+
+{{< buy-box title="Pokemon Day 2026 Bulbasaur Promo Card (Single)" >}}
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=pokemon+day+2026+bulbasaur+promo&utm_campaign=affiliate&utm_medium=colorfulcardboard&utm_source=colorfulcardboard-20) | Market price | Best for price discovery on the single |
+| [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+day+2026+bulbasaur+promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339069183&toolid=10001) | Varies | Check raw vs. graded listings |
+{{< /buy-box >}}
+
 ## Final Thoughts
 
 Pokemon Day 2026 promo cards offer something for everyone: a fun collectible for kids, a nostalgic celebration for adult fans, and a modest investment opportunity for those thinking long-term.

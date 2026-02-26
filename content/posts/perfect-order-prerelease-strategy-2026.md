@@ -131,6 +131,16 @@ For most buyers, a hybrid approach is stronger: small sealed exposure plus stage
 
 Use position sizing, keep reserve cash, and avoid all-in prerelease buys. The market usually reprices after wider supply hits.
 
+{{< buy-box >}}
+**Buy Perfect Order at Prerelease:** [Amazon](https://www.amazon.com/s?k=pokemon+perfect+order+prerelease&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+perfect+order+prerelease&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=perfect+order)
+
+| Retailer | Best For | Notes |
+|----------|----------|-------|
+| Amazon | Sealed ETBs + booster boxes | Check price — MSRP is ~$49.99 ETB; avoid preorder premiums |
+| eBay | Prerelease singles + lots | Filter by sold listings — hype prices drop Week 2 |
+| TCGPlayer | Singles post-release | Wait until April 3-10 for stabilized pricing |
+{{< /buy-box >}}
+
 ## Bottom Line
 
 Perfect Order can be one of the best opportunities of this release cycle, but only for buyers who respect timing and entry discipline. Build your watchlist now, pre-set price limits, and treat prerelease weekend as data collection, not a race.

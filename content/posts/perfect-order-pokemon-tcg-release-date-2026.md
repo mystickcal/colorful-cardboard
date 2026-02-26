@@ -116,6 +116,16 @@ Unless you specifically collect Japanese cards, wait for English. Language matte
 
 ---
 
+{{< buy-box >}}
+**Buy Perfect Order Pokemon TCG:** [Amazon](https://www.amazon.com/s?k=pokemon+perfect+order+tcg&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+perfect+order+tcg&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=perfect+order)
+
+| Retailer | Best For | Notes |
+|----------|----------|-------|
+| Amazon | Sealed product (ETBs, booster boxes) | Check price — Prime eligible, verify seller rating |
+| eBay | Singles and sealed lots | Filter sold listings first to price accurately |
+| TCGPlayer | Singles | Most transparent pricing, largest selection |
+{{< /buy-box >}}
+
 **Disclaimer - Not Financial Advice:** This content is for informational and entertainment purposes only. It is not financial or investment advice. Card prices fluctuate and past performance doesn't guarantee future results. Always do your own research before buying or selling.
 
 **Affiliate Disclosure:** This post contains affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you.

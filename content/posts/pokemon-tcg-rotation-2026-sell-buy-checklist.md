@@ -129,6 +129,16 @@ Cards with H, I, or J regulation marks are safe through 2026. That includes Twil
 **Should I buy Perfect Order at prerelease?**
 I'd wait for Week 2 (April 3-10). Prerelease pricing is always elevated, and the April 10 rotation creates a natural double dip window. More detail in the [Perfect Order investment guide](/posts/most-valuable-perfect-order-cards-2026/).
 
+{{< buy-box >}}
+**Sell or Buy Pokemon TCG Singles:** [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+tcg+rotation) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+tcg+singles+rotation&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkevt=1) | [Amazon](https://www.amazon.com/s?k=pokemon+tcg+singles&tag=colorfulcardboard-20)
+
+| Retailer | Best For | Notes |
+|----------|----------|-------|
+| TCGPlayer | Buying and selling singles | Most accurate pricing; set price alerts on chase cards |
+| eBay | Bulk lots + sealed | Check sold listings before listing your own |
+| Amazon | Sealed product at MSRP | Prime eligible; avoid 3P sellers above MSRP |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 You have roughly three weeks to act on competitive G-mark singles before the rotation sell wave compresses prices. The priority order:
