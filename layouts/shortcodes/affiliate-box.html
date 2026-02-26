@@ -1,0 +1,169 @@
+{{/* affiliate-box shortcode — Colorful Cardboard
+     Renders a styled affiliate product callout with image, price, pros, and CTA.
+
+     Params:
+       name    - product name (required)
+       image   - product image URL (optional, shows placeholder if omitted)
+       price   - current price string, e.g. "$14.99" (optional)
+       pros    - comma-separated list of 1-3 pros (optional)
+       link    - affiliate URL for CTA button (required)
+       cta     - CTA button text (optional, default "Check Price on TCGPlayer")
+       badge   - badge text above name, e.g. "Editor's Pick" (optional)
+
+     Usage:
+       {{< affiliate-box
+           name="Paldean Fates Elite Trainer Box"
+           image="https://example.com/etb.jpg"
+           price="$49.99"
+           pros="Strong pull rates,Great sealed investment,Charizard ex chase"
+           link="https://tcgplayer.com/..."
+           cta="Check Price on TCGPlayer"
+           badge="Best Value"
+       >}}
+*/}}
+
+{{ $name  := .Get "name"  | default "Product" }}
+{{ $image := .Get "image" | default "" }}
+{{ $price := .Get "price" | default "" }}
+{{ $pros  := .Get "pros"  | default "" }}
+{{ $link  := .Get "link"  | default "#" }}
+{{ $cta   := .Get "cta"   | default "Check Price on TCGPlayer" }}
+{{ $badge := .Get "badge" | default "" }}
+
+{{ $prosList := slice }}
+{{ if $pros }}
+  {{ $prosList = split $pros "," }}
+{{ end }}
+
+<div class="cc-affiliate-box" style="
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  background: #ffffff;
+  border: 2px solid #E5E7EB;
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 16px rgba(11,18,32,0.07);
+  font-family: 'Inter', -apple-system, sans-serif;
+  position: relative;
+  overflow: hidden;
+">
+
+  {{ if $badge }}
+  <div style="
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #2563EB;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-bottom-left-radius: 10px;
+  ">{{ $badge }}</div>
+  {{ end }}
+
+  {{ if $image }}
+  <div style="flex-shrink: 0;">
+    <img
+      src="{{ $image }}"
+      alt="{{ $name }}"
+      loading="lazy"
+      style="
+        width: 100px;
+        height: 100px;
+        object-fit: contain;
+        border-radius: 10px;
+        border: 1px solid #F3F4F6;
+        background: #F9FAFB;
+        padding: 4px;
+      "
+    />
+  </div>
+  {{ end }}
+
+  <div style="flex: 1; min-width: 0;">
+
+    <div style="
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #2563EB;
+      margin-bottom: 4px;
+    ">Affiliate Pick</div>
+
+    <div style="
+      font-family: 'Space Grotesk', 'Inter', sans-serif;
+      font-size: 17px;
+      font-weight: 700;
+      color: #0B1220;
+      line-height: 1.25;
+      margin-bottom: 6px;
+    ">{{ $name }}</div>
+
+    {{ if $price }}
+    <div style="
+      font-size: 20px;
+      font-weight: 800;
+      color: #10B981;
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    ">{{ $price }}</div>
+    {{ end }}
+
+    {{ if $prosList }}
+    <ul style="
+      list-style: none;
+      margin: 0 0 14px 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    ">
+      {{ range $prosList }}
+      {{ $pro := . | strings.TrimSpace }}
+      {{ if $pro }}
+      <li style="
+        font-size: 13px;
+        color: #374151;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        line-height: 1.4;
+      ">
+        <span style="color: #10B981; font-weight: 700; flex-shrink: 0;">✓</span>
+        {{ $pro }}
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <a
+      href="{{ $link }}"
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      style="
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: #2563EB;
+        color: #ffffff !important;
+        font-size: 14px;
+        font-weight: 700;
+        text-decoration: none !important;
+        padding: 10px 20px;
+        border-radius: 999px;
+        transition: all 0.18s ease;
+        border: none;
+      "
+      onmouseover="this.style.background='#1D4ED8'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 20px rgba(37,99,235,0.25)'"
+      onmouseout="this.style.background='#2563EB'; this.style.transform=''; this.style.boxShadow=''"
+    >{{ $cta }} →</a>
+
+  </div>
+</div>

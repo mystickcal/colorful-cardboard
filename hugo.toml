@@ -63,6 +63,11 @@ theme = "PaperMod"
     noClasses = false
 
 [[menu.main]]
+name = "Home"
+url = "/"
+weight = 0
+
+[[menu.main]]
 name = "Market Analysis"
 url = "/categories/market-analysis/"
 weight = 1
