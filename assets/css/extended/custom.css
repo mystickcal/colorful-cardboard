@@ -682,7 +682,8 @@ a, button, input {
 .footer__brand {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  text-align: center;
   gap: 12px;
 }
 
