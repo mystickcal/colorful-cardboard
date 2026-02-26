@@ -388,7 +388,7 @@ a, button, input {
 
 .cc-post-card__thumb {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 3 / 4;
   height: auto;
   background-image: var(--cc-thumb-bg);
   background-size: cover;
@@ -1047,7 +1047,7 @@ a, button, input {
 }
 
 .cc-post-grid--list .cc-post-card__thumb {
-  aspect-ratio: 4 / 3 !important;
+  aspect-ratio: 3 / 4 !important;
   height: auto !important;
   min-height: unset !important;
   border-radius: 0 !important;
