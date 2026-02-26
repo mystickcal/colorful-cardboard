@@ -91,13 +91,14 @@ a, button, input {
 /* Hide text nodes — target the text that sits directly in <a> after the img */
 .logo a {
   font-size: 0 !important;
+  color: transparent !important;
   display: flex !important;
   align-items: center;
 }
 
 .logo img {
   font-size: initial !important;
-  height: 48px !important;
+  height: 72px !important;
   width: auto !important;
   border-radius: 0 !important;
   object-fit: contain;
