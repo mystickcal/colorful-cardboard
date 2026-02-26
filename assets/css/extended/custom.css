@@ -83,19 +83,24 @@ a, button, input {
 }
 
 /* Hide logo text — icon only in header */
-.logo a span,
-.logo a:not(:has(span)) {
-  font-size: 0 !important;
-  width: 0;
-  overflow: hidden;
+.logo a > *:not(img),
+.logo a > br {
+  display: none !important;
 }
 
+/* Hide text nodes — target the text that sits directly in <a> after the img */
 .logo a {
   font-size: 0 !important;
+  display: flex !important;
+  align-items: center;
 }
 
-.logo a img {
-  font-size: initial;
+.logo img {
+  font-size: initial !important;
+  height: 48px !important;
+  width: auto !important;
+  border-radius: 0 !important;
+  object-fit: contain;
 }
 
 .logo a::before { display: none; }
@@ -487,20 +492,13 @@ a, button, input {
 }
 
 .cc-single__layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 280px;
-  gap: 40px;
-  align-items: start;
+  display: block;
+  max-width: 72ch;
 }
 
-@media (max-width: 1100px) {
-  .cc-single__layout { grid-template-columns: 1fr; }
-  .cc-single__sidebar { display: none; }
-  .cc-toc-mobile { display: block; margin: 0 0 22px; }
-}
-
-@media (min-width: 1101px) {
-  .cc-toc-mobile { display: none; }
+.cc-toc-mobile {
+  display: block;
+  margin: 0 0 22px;
 }
 
 .cc-toc-sticky {
