@@ -2,8 +2,8 @@
 title: "Why Gengar Cards Are Surging in 2026: A Price Analysis"
 date: 2026-02-09
 cover:
-  image: "/images/posts/gengar-vmax-fusion-strike-alt-art.png"
-  alt: "Gengar VMAX Special Art Rare from Fusion Strike - Pokemon card investment guide"
+  image: "/images/posts/gengar-vmax-fusion-strike-hires.png"
+  alt: "Gengar VMAX Alt Art Fusion Strike — Pokemon card investment guide 2026"
   hidden: false
 draft: false
 categories: ["Market Analysis"]

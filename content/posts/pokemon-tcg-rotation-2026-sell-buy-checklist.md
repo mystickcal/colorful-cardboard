@@ -6,8 +6,8 @@ description: "G regulation mark rotates April 10, 2026. Here's exactly what to s
 tags: ["pokemon cards", "pokemon tcg investing", "pokemon rotation 2026", "sell before rotation", "G regulation mark"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/pokemon-tcg-rotation-2026-sell-buy-checklist.jpg"
-  alt: "Pokemon TCG cards spread on a table — rotation 2026 sell and buy checklist"
+  image: "/images/posts/pokemon-cards-generic.jpg"
+  alt: "Vintage Pokemon TCG cards spread — rotation 2026 sell and buy checklist"
   hidden: false
 ---
 

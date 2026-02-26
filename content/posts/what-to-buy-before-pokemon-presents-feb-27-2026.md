@@ -23,8 +23,8 @@ keywords:
   - 151 sealed investment
   - First Partner Illustration Collection
 cover:
-  image: "/images/posts/pokemon-booster-packs.jpg"
-  alt: "Pokemon cards and sealed product ahead of Pokemon Presents Feb 27 2026"
+  image: "/images/posts/charizard-ex-obsidian-flames-hires.png"
+  alt: "Charizard ex — what to buy before Pokemon Presents Feb 27 2026"
   hidden: false
 ---
 

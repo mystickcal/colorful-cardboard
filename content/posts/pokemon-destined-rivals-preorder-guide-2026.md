@@ -6,8 +6,8 @@ description: "Destined Rivals launches May 30, 2026. Here is a no-hype preorder 
 tags: ["pokemon cards", "destined rivals", "team rocket", "preorder guide", "market analysis"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/pokemon-destined-rivals-preorder-guide-2026.jpg"
-  alt: "Pokemon booster packs and trading cards — Destined Rivals preorder guide 2026"
+  image: "/images/posts/destined-rivals-mewtwo-ex.jpg"
+  alt: "Team Rocket's Mewtwo ex from Destined Rivals — preorder guide 2026"
   hidden: false
 ---
 

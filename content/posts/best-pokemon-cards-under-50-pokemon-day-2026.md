@@ -6,8 +6,8 @@ description: "Pokemon Day 2026 brings 30th anniversary hype and a wave of new co
 tags: ["pokemon cards", "investing", "budget", "pokemon day 2026", "beginner guide"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/best-pokemon-cards-under-50-pokemon-day-2026.jpg"
-  alt: "Pokemon trading cards fanned out — budget investing guide for Pokemon Day 2026"
+  image: "/images/posts/charizard-ex-obsidian-flames-hires.png"
+  alt: "Charizard ex Obsidian Flames — best Pokemon cards under 50 Pokemon Day 2026"
   hidden: false
 ---
 

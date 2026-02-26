@@ -18,8 +18,8 @@ keywords:
   - Ascended Heroes ETB release date
   - Ascended Heroes ETB GameStop 99.99
 cover:
-  image: "/images/posts/ascended-heroes-mega-gengar-card.jpg"
-  alt: "Mega Gengar ex from Pokemon TCG Ascended Heroes — ETB price check Feb 2026"
+  image: "/images/posts/ascended-heroes-etb.jpg"
+  alt: "Ascended Heroes Elite Trainer Box — Feb 2026 price check"
   hidden: false
 ---
 

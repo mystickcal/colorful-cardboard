@@ -6,8 +6,8 @@ description: "A practical price-check and buy/avoid/watch guide for the Pokemon 
 categories: ["Market Analysis"]
 tags: ["Pokemon Day 2026", "sealed product", "promo cards", "price check", "restock"]
 cover:
-  image: "/images/posts/pokemon-day-2026-collection-price-check.jpg"
-  alt: "Pokemon booster packs and cards on display"
+  image: "/images/posts/bulbasaur-151-illustration-rare.jpg"
+  alt: "Bulbasaur Illustration Rare — Pokemon Day 2026 collection price check"
   relative: false
 ---
 

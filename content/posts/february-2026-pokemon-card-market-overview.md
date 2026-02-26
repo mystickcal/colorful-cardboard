@@ -6,9 +6,9 @@ categories: ["Market Analysis"]
 tags: ["market-trends", "february-2026", "rotation", "mega-evolution", "investing"]
 description: "A data-driven look at the Pokemon TCG market heading into February 2026. Standard rotation, Mega Evolution hype, and the 30th anniversary are creating real opportunities."
 cover:
-  image: "/images/posts/moonbreon-psa10.jpg"
-  alt: "PSA 10 Moonbreon (Umbreon VMAX Alt Art)"
-  caption: ""
+  image: "/images/posts/moonbreon-umbreon-vmax-alt-art-hires.png"
+  alt: "Umbreon VMAX Alt Art — Pokemon card market overview February 2026"
+  hidden: false
 ShowToc: true
 ---
 
