@@ -7,6 +7,7 @@ theme = "PaperMod"
 
 [params]
   env = "production"
+  mainSections = ["posts"]
   title = "Colorful Cardboard"
   description = "Data-driven Pokemon card investment analysis. Market trends, undervalued picks, set reviews, and portfolio strategies for collectors who want to build wealth through cardboard."
   author = "Colorful Cardboard"
@@ -62,26 +63,31 @@ theme = "PaperMod"
     noClasses = false
 
 [[menu.main]]
-name = "Analysis"
-url = "/categories/"
+name = "Market Analysis"
+url = "/categories/market-analysis/"
 weight = 1
+
+[[menu.main]]
+name = "Set Reviews"
+url = "/categories/set-reviews/"
+weight = 2
+
+[[menu.main]]
+name = "Card Picks"
+url = "/categories/card-picks/"
+weight = 3
 
 [[menu.main]]
 name = "Guides"
 url = "/guides/"
-weight = 2
-
-[[menu.main]]
-name = "Tools"
-url = "/tools/"
-weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about/"
 weight = 4
 
 [[menu.main]]
 name = "Start Here"
 url = "/start-here/"
 weight = 5
+
+[[menu.footer]]
+name = "About"
+url = "/about/"
+weight = 1

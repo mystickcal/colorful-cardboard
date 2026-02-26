@@ -4,9 +4,7 @@ date: 2026-02-11
 draft: false
 description: "A clean top-10 list of Ascended Heroes chase cards, plus which ones I’d buy, which ones I’d avoid, and how not to get wrecked by launch-season pricing."
 slug: "most-valuable-ascended-heroes-cards"
-categories:
-  - Pokemon Cards
-  - Market Analysis
+categories: ["Market Analysis"]
 tags:
   - Ascended Heroes
   - Chase Cards

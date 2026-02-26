@@ -2,7 +2,7 @@
 title: "Pokemon Card Grading Turnaround Times February 2026: PSA vs BGS vs CGC"
 description: "Current grading turnaround times for Pokemon cards in February 2026. Real data on PSA, BGS, and CGC service levels, pricing, and what's actually worth grading right now."
 date: 2026-02-12T23:10:00-05:00
-categories: ["Grading"]
+categories: ["Market Analysis"]
 tags: ["PSA", "BGS", "CGC", "grading turnaround times", "2026"]
 cover:
   image: "/images/posts/grading-turnaround.jpg"

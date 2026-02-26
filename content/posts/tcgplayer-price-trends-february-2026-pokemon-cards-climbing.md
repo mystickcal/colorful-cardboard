@@ -5,7 +5,7 @@ draft: false
 description: "10 Pokemon cards are seeing major price spikes in February 2026. Learn why these cards are climbing, how to spot real trends vs. pump-and-dumps, and how to protect yourself from bad buys."
 slug: "tcgplayer-price-trends-february-2026-pokemon-cards-climbing"
 tags: ["Pokemon TCG", "Price Trends", "TCGPlayer", "Card Investing", "Market Analysis"]
-categories: ["Pokemon Cards", "Market Analysis"]
+categories: ["Market Analysis"]
 keywords: ["pokemon cards climbing in price", "TCGPlayer price trends", "pokemon card price spikes", "pokemon card investing 2026"]
 cover:
   image: "/images/posts/tcgplayer-price-trends.jpg"

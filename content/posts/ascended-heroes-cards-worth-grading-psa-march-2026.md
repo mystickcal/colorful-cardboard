@@ -4,7 +4,7 @@ date: 2026-02-25T06:20:00-05:00
 draft: false
 description: "Which Ascended Heroes cards are actually worth submitting to PSA right now? Break-even math, timing windows, and a submit/skip verdict for every major chase card."
 tags: ["pokemon cards", "pokemon tcg investing", "ascended heroes", "psa grading", "grading roi", "ascended heroes grading"]
-categories: ["Grading", "Market Analysis"]
+categories: ["Market Analysis"]
 cover:
   image: "images/posts/ascended-heroes-cards-worth-grading-psa-march-2026.jpg"
   alt: "Pokemon TCG Ascended Heroes cards in protective sleeves ready for PSA grading submission"

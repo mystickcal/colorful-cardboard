@@ -4,7 +4,7 @@ date: 2026-02-17T07:00:00-05:00
 draft: false
 description: "Ascended Heroes pull rates from 8,000+ packs of data, plus the rip-or-buy decision framework that saves you money before ETB day."
 tags: ["pokemon cards", "ascended heroes", "pull rates", "singles strategy", "expected value"]
-categories: ["Strategy Guide"]
+categories: ["Market Analysis"]
 cover:
   image: "images/posts/ascended-heroes-pull-rates-rip-or-buy-singles.jpg"
   alt: "Stack of Ascended Heroes Pokemon card packs ready to be opened"

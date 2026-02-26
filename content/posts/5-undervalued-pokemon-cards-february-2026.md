@@ -2,7 +2,7 @@
 title: "5 Undervalued Pokemon Cards Worth Buying in February 2026"
 date: 2026-02-09
 draft: false
-categories: ["card-picks"]
+categories: ["Card Picks"]
 tags: ["undervalued", "rotation", "promo-cards", "investment-picks", "february-2026"]
 description: "Five Pokemon cards with strong upside potential heading into Spring 2026. Backed by real market data, rotation timing, and supply dynamics."
 cover:

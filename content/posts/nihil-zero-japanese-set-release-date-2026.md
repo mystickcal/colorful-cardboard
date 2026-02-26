@@ -3,7 +3,7 @@ title: "Nihil Zero Japanese Set Release Date and What Collectors Should Watch in
 date: 2026-02-12
 description: "Everything we know about the Nihil Zero Japanese Pokemon set releasing January 23, 2026, plus smart buying strategies for collectors."
 keywords: ["Nihil Zero release date", "Nihil Zero Japanese set", "Pokemon Nihil Zero booster box", "Japanese Pokemon set January 2026", "Nihil Zero card list"]
-categories: ["Japanese Pokemon Cards", "Pokemon Investing"]
+categories: ["Market Analysis"]
 draft: false
 cover:
   image: "/images/posts/nihil-zero-japanese.jpg"

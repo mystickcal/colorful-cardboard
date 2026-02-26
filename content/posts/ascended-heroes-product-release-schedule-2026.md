@@ -2,9 +2,7 @@
 title: "Ascended Heroes Product Release Schedule 2026 + Which Products Are Worth Buying"
 description: "Complete timeline of Ascended Heroes products launching Feb-Apr 2026, including ETB, Booster Bundle, and Tech Sticker Collection release dates. Find out which products are worth buying at MSRP vs market prices."
 date: 2026-02-11
-categories:
-  - Pokemon TCG
-  - Product Releases
+categories: ["Market Analysis"]
 tags:
   - Ascended Heroes
   - Release Schedule

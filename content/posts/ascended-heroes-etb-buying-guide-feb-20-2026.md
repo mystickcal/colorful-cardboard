@@ -4,7 +4,7 @@ date: 2026-02-16T07:00:00-05:00
 draft: false
 description: "Ascended Heroes ETB drops Feb 20. Here's every retailer ranked, what price to pay, when to walk away, and a release-day battle plan."
 tags: ["pokemon cards", "ascended heroes", "elite trainer box", "etb", "buying guide", "february 2026"]
-categories: ["Buying Guide"]
+categories: ["Card Picks"]
 cover:
   image: "images/posts/ascended-heroes-etb-buying-guide-feb-20-2026.jpg"
   alt: "Pokemon TCG Ascended Heroes Elite Trainer Box buying guide for February 20 2026 release"

@@ -4,7 +4,7 @@ date: 2026-02-26T06:30:00-05:00
 slug: "best-pokemon-cards-under-50-pokemon-day-2026"
 description: "Pokemon Day 2026 brings 30th anniversary hype and a wave of new collectors. Here are the best Pokemon cards to buy under $50 right now — budget picks with real investment upside."
 tags: ["pokemon cards", "investing", "budget", "pokemon day 2026", "beginner guide"]
-categories: ["Investing", "Beginner Guide"]
+categories: ["Market Analysis"]
 cover:
   image: "images/posts/best-pokemon-cards-under-50-pokemon-day-2026.jpg"
   alt: "Pokemon trading cards fanned out — budget investing guide for Pokemon Day 2026"

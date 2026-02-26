@@ -2,7 +2,7 @@
 title: "The Complete Beginner's Guide to Pokemon Card Investing"
 date: 2026-02-09
 draft: false
-categories: ["beginners-guide"]
+categories: ["Guides"]
 tags: ["beginner", "investing-basics", "sealed-vs-singles", "getting-started"]
 description: "Everything you need to know to start investing in Pokemon cards. Sealed vs singles, where to buy, what to avoid, and how to think about your first purchases."
 cover:

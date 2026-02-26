@@ -2,7 +2,7 @@
 title: "Japanese Pokemon Cards: Why They’re the Secret Weapon for Smart Investors"
 date: 2026-02-09
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["japanese", "jp", "investment-strategy", "sealed", "promos", "pokemon-center-japan"]
 description: "Japanese Pokemon cards can offer cleaner print quality, different supply dynamics, and exclusive promos. Here’s how investors use JP product as an edge."
 cover:

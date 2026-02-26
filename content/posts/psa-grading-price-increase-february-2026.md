@@ -3,7 +3,7 @@ title: "PSA Grading Pricing Update (Feb 2026): The New Math for Pokemon Cards"
 date: 2026-02-15T06:00:00-05:00
 draft: false
 description: "PSA updated submission pricing in February 2026 (effective Feb 10). Here's what changed, when grading still makes sense, and the simple rules I'm using for Pokemon cards."
-categories: ["Grading", "Market Analysis"]
+categories: ["Market Analysis"]
 tags: ["PSA", "grading fees", "Pokemon cards", "2026", "grading ROI"]
 cover:
   image: "/images/posts/psa-grading-price-increase-february-2026.jpg"

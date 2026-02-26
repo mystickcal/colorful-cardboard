@@ -6,7 +6,7 @@ cover:
   alt: "Gengar Pokemon cards collection"
   hidden: false
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["gengar", "price-trends", "fusion-strike", "team-up", "alt-art"]
 description: "Gengar cards are seeing massive price gains in 2026. We analyze why collectors are treating Big G like a top-tier Gen I Pokemon and which cards to target."
 ShowToc: true

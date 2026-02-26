@@ -4,9 +4,7 @@ date: 2026-02-10
 draft: false
 description: "Everything you need to know about Pokemon Day 2026 promo cards, including the Bulbasaur and Pikachu stamp promos. Find out where to get them, what to do with them, and how to participate with your kids."
 slug: "pokemon-day-2026-promo-cards-guide"
-categories:
-  - Pokemon Cards
-  - Collecting
+categories: ["Market Analysis"]
 tags:
   - Pokemon Day 2026
   - Promo Cards

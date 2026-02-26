@@ -3,7 +3,7 @@ title: "Pokemon Day 2026 Collection Price Check: What to Pay, What to Skip"
 date: 2026-02-15T06:00:00-05:00
 draft: false
 description: "A practical price-check and buy/avoid/watch guide for the Pokemon Day 2026 Collection. What's in it, what it's worth, and how to buy it without getting hosed."
-categories: ["Market Analysis", "Collecting"]
+categories: ["Market Analysis"]
 tags: ["Pokemon Day 2026", "sealed product", "promo cards", "price check", "restock"]
 cover:
   image: "/images/posts/pokemon-day-2026-collection-price-check.jpg"

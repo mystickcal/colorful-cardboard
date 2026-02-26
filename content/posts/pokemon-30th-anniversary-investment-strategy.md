@@ -6,7 +6,7 @@ cover:
   alt: "Pokemon 25th Anniversary Golden Box"
   hidden: false
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["30th-anniversary", "2026", "speculation", "vintage", "sealed-product"]
 description: "Pokemon Day 2026 is just weeks away. Here's what investors need to know about the 30th anniversary, from vintage card spikes to rumored special sets."
 ShowToc: true

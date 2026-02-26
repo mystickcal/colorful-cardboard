@@ -6,7 +6,7 @@ cover:
   alt: "Team Rocket Pokemon cards"
   hidden: false
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["team-rocket", "standard-rotation", "destined-rivals", "mewtwo-ex", "league-battle-deck"]
 description: "Team Rocket trainer cards from Destined Rivals are spiking as Standard rotation approaches. Here's what to buy before the meta shift."
 ShowToc: true

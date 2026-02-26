@@ -2,7 +2,7 @@
 title: "Why Event Promo Cards Are the Smartest Pokemon Investment Right Now"
 date: 2026-02-09
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["promo-cards", "event-exclusives", "investment-strategy", "scarcity", "prerelease"]
 description: "Event promo cards offer structural scarcity, seasonal demand cycles, and zero reprint risk. Here's why they're one of the safest plays in the Pokemon card market."
 cover:

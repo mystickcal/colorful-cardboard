@@ -3,7 +3,7 @@ title: "Ascended Heroes Erika/Larry 2-Pack Blisters Delayed to Feb 20: What It M
 date: 2026-02-13
 description: "The Pokémon Ascended Heroes Erika and Larry 2-pack blister packs have been delayed to February 20. Here's what changed, what's inside, and how to navigate the tighter launch window."
 keywords: ["ascended heroes two-pack blister delay", "erika tangela promo", "larry komala promo", "ascended heroes release schedule feb 20 2026"]
-categories: ["Pokemon TCG", "News"]
+categories: ["Market Analysis"]
 tags: ["Ascended Heroes", "blister packs", "release delays", "Erika", "Larry"]
 draft: false
 cover:

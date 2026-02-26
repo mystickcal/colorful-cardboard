@@ -2,7 +2,7 @@
 title: "How to Grade Pokemon Cards: PSA vs BGS vs CGC (Which Should You Use?)"
 date: 2026-02-09
 draft: false
-categories: ["beginners-guide"]
+categories: ["Guides"]
 tags: ["grading", "psa", "bgs", "cgc", "gem-mint", "slabs", "beginner"]
 description: "A practical Pokemon card grading guide for beginners. Compare PSA vs BGS vs CGC, learn when grading is worth it, and avoid the most expensive mistakes."
 cover:

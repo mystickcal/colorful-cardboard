@@ -4,9 +4,7 @@ date: 2026-02-11
 draft: false
 description: "Ascended Heroes ETBs are selling above MSRP. Here’s how to decide if $99.99 is still a smart buy, or pure FOMO."
 slug: "ascended-heroes-etb-price-check-feb-2026"
-categories:
-  - Pokemon Cards
-  - Market Analysis
+categories: ["Market Analysis"]
 tags:
   - Ascended Heroes
   - Elite Trainer Box

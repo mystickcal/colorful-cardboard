@@ -4,7 +4,7 @@ date: 2026-02-13
 draft: false
 description: "Everything you need to know about the Pokemon Day 2026 Bulbasaur League promo card: how to get it, what makes it special, and what collectors can expect it to be worth."
 keywords: ["pokemon day 2026 bulbasaur promo", "pokemon day 2026 league promo", "how to get bulbasaur pokemon day card", "pokemon day 2026 stamp"]
-categories: ["Pokemon TCG", "Promo Cards", "News"]
+categories: ["Market Analysis"]
 tags: ["Pokemon Day 2026", "Bulbasaur", "League Promo", "Event Cards"]
 cover:
   image: "/images/posts/bulbasaur-151-illustration-rare.jpg"

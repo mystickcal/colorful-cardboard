@@ -4,7 +4,7 @@ date: 2026-02-11T18:00:00-05:00
 draft: false
 description: "Everything we know about Pokemon TCG Perfect Order release date (March 27, 2026), early card reveals including Mega Zygarde ex, and what the preorder market actually looks like right now."
 keywords: ["perfect order pokemon tcg release date", "mega evolution perfect order", "perfect order set 2026", "perfect order preorder", "mega zygarde ex card"]
-categories: ["Pokemon TCG", "Set Releases"]
+categories: ["Market Analysis"]
 tags: ["Perfect Order", "Mega Evolution", "2026 Sets", "Preorders", "Investment"]
 cover:
   image: "/images/posts/mega-zygarde-ex.jpg"

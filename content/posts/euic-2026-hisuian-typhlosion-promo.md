@@ -4,7 +4,7 @@ date: 2026-02-12T06:00:00-05:00
 draft: false
 description: "Everything you need to know about the EUIC 2026 Hisuian Typhlosion promo card, how to claim your stream rewards, and whether this card is worth buying or waiting on."
 keywords: ["EUIC 2026 promo card", "Hisuian Typhlosion promo", "Pokemon EUIC stream rewards", "Pokemon TCG Live EUIC rewards"]
-categories: ["Pokemon TCG", "Promo Cards", "Collecting"]
+categories: ["Market Analysis"]
 tags: ["EUIC 2026", "Hisuian Typhlosion", "stream rewards", "promo cards"]
 cover:
   image: "/images/posts/hisuian-typhlosion-promo.jpg"

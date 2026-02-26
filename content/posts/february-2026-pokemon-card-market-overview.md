@@ -2,7 +2,7 @@
 title: "Pokemon Card Market Overview: February 2026"
 date: 2026-02-09
 draft: false
-categories: ["market-analysis"]
+categories: ["Market Analysis"]
 tags: ["market-trends", "february-2026", "rotation", "mega-evolution", "investing"]
 description: "A data-driven look at the Pokemon TCG market heading into February 2026. Standard rotation, Mega Evolution hype, and the 30th anniversary are creating real opportunities."
 cover:
