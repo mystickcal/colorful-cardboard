@@ -14,7 +14,7 @@ cover:
 
 If you collect with one eye on tournament demand, this update matters more than most people think.
 
-The official Pokemon forum announced that Ascended Heroes products now become tournament legal on **March 6, 2026**. That is a direct timing shift tied to the two-week legality rule after the first qualifying product release.
+The official Pokemon forum announced that [Ascended Heroes products](/posts/ascended-heroes-product-release-schedule-2026/) now become tournament legal on **March 6, 2026**. That is a direct timing shift tied to the two-week legality rule after the first qualifying product release.
 
 For active collectors, this is not just rules trivia. It changes when players start buying copies for decks, and that usually affects which cards tighten up first.
 

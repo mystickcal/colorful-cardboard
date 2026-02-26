@@ -41,7 +41,7 @@ But grading is not magic. If the card is not strong enough to grade high, or the
 - **BGS (Beckett)**: Tougher grading feel, subgrades, and the premium “Black Label” ceiling.
 - **CGC**: Strong option for collectors who value consistency, good presentation, and often competitive pricing.
 
-If you want the simplest answer: **PSA is the safest default for Pokemon investors** because it tends to be the easiest to sell at strong prices.
+If you want the simplest answer: **[PSA is the safest default for Pokemon investors](/posts/psa-grading-price-increase-february-2026/)** because it tends to be the easiest to sell at strong prices.
 
 ## Quick comparison table (Pokemon-focused)
 

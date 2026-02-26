@@ -58,7 +58,7 @@ You don't need to be a competitive player to participate. Most leagues welcome f
 
 ### Retail Product Collections
 
-The stamped Pikachu promo is included in the **Pokemon Day 2026 Collection**, which has been showing up at major retailers and some local card shops. The official MSRP is **$14.99**, and the product includes:
+The stamped Pikachu promo is included in the **Pokemon Day 2026 Collection**, which has been showing up at major retailers and some local card shops. For a full breakdown of whether it's worth buying at current prices, see our [Pokemon Day 2026 Collection price check](/posts/pokemon-day-2026-collection-price-check/). The official MSRP is **$14.99**, and the product includes:
 - The exclusive stamped Pikachu promo card
 - 3 booster packs
 - A 30th anniversary coin

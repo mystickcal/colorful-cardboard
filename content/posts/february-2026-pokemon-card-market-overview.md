@@ -16,7 +16,7 @@ February 2026 is shaping up to be one of the most interesting months for Pokemon
 
 ## The Three Forces Driving February's Market
 
-### 1. Standard Rotation (April 10, 2026)
+### 1. [Standard Rotation](/posts/pokemon-tcg-standard-rotation-2026-guide/) (April 10, 2026)
 
 This is the biggest structural event of the year. On April 10, all G-regulation sets rotate out of Standard play. That means **Scarlet & Violet Base Set, Paldea Evolved, Obsidian Flames, 151, Paradox Rift, and Paldean Fates** are all leaving Standard.
 
@@ -54,7 +54,7 @@ Here's how I'd categorize the current opportunities:
 
 ### Tier 1: Highest Conviction (Buy Now)
 - **Paldean Fates sealed product** (ETBs, booster boxes). Rotation scarcity + strong chase cards.
-- **151 sealed product**. The nostalgia factor here is permanent. Post-rotation supply crunch will drive prices.
+- **151 sealed product**. The nostalgia factor here is permanent. Post-rotation supply crunch will drive prices. Before rotation hits, see what to [sell, hold, and buy](/posts/pokemon-tcg-rotation-2026-sell-buy-checklist/).
 - **Ascended Heroes ETBs at retail**. If you can still find them at $118, that's your entry.
 
 ### Tier 2: Strong But Watch Pricing
@@ -62,7 +62,7 @@ Here's how I'd categorize the current opportunities:
 - **Terapagos ex SIR** ($250-350). A genuine Scarlet & Violet era gem with upward momentum.
 
 ### Tier 3: Speculative
-- **Umbreon ex SIR** from Prismatic Evolutions ($100+). Eeveelution demand is real but this set was printed heavily.
+- **Umbreon ex SIR** from [Prismatic](/posts/prismatic-evolutions-restock-watch-2026/) Evolutions ($100+). Eeveelution demand is real but this set was printed heavily.
 - **Perfect Order preorders** ($60). Low entry, high potential if the set delivers strong chase cards.
 
 ### What I'm Avoiding

@@ -12,7 +12,7 @@ cover:
 ShowToc: true
 ---
 
-Standard rotation hits April 10, the 30th anniversary is February 27, and Mega Evolution hype is still building. If you know where to look, there are real opportunities in the market right now. Here are five cards with strong upside potential, backed by actual data.
+Standard rotation hits April 10, [the 30th anniversary](/posts/pokemon-30th-anniversary-investment-strategy/) is February 27, and Mega Evolution hype is still building. If you know where to look, there are real opportunities in the market right now. Here are five cards with strong upside potential, backed by actual data.
 
 ## 1. Ceruledge (Prerelease) - $26.45
 

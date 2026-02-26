@@ -864,19 +864,156 @@ a, button, input {
   max-width: 60ch;
 }
 
-/* Smoother post content reading experience */
+/* ========== POST CONTENT TYPOGRAPHY ========== */
 .post-content {
-  font-size: 1.05rem;
-  line-height: 1.8;
+  font-size: 1.07rem;
+  line-height: 1.85;
+  color: var(--content);
+  max-width: 72ch;
+}
+
+.post-content p {
+  margin-bottom: 1.5em;
 }
 
 .post-content h2 {
-  margin-top: 2.2em;
+  font-size: 1.65rem;
+  font-weight: 800;
+  margin-top: 2.4em;
+  margin-bottom: 0.75em;
   padding-top: 1em;
-  border-top: 1px solid var(--border);
+  border-top: 2px solid var(--border);
+  color: var(--primary);
+  letter-spacing: -0.025em;
 }
 
-/* Better breadcrumb styling */
+.post-content h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+}
+
+.post-content h4 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+  color: var(--primary);
+}
+
+.post-content strong {
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.post-content em {
+  color: var(--secondary);
+}
+
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.4em;
+}
+
+.post-content li {
+  margin-bottom: 0.5em;
+  line-height: 1.7;
+}
+
+.post-content li::marker {
+  color: var(--brand-blue);
+  font-weight: 700;
+}
+
+.post-content blockquote {
+  border-left: 4px solid var(--brand-blue);
+  margin: 1.8em 0;
+  padding: 14px 20px;
+  background: rgba(37, 99, 235, 0.04);
+  border-radius: 0 8px 8px 0;
+  color: var(--secondary);
+  font-style: italic;
+}
+
+.post-content blockquote p {
+  margin: 0;
+}
+
+.post-content a {
+  color: var(--brand-blue);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+}
+
+.post-content a:hover {
+  color: #1D4ED8;
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.8em 0;
+  font-size: 0.95rem;
+}
+
+.post-content th {
+  background: rgba(37, 99, 235, 0.07);
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 14px;
+  border-bottom: 2px solid var(--border);
+}
+
+.post-content td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-content tr:last-child td {
+  border-bottom: none;
+}
+
+.post-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5em 0;
+}
+
+.post-content img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* ========== LIST PAGE CARD GRID — 2 col like ICA ========== */
+.cc-post-grid--list {
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 20px;
+}
+
+.cc-post-grid--list .cc-post-card__link {
+  display: block !important;
+}
+
+.cc-post-grid--list .cc-post-card__thumb {
+  aspect-ratio: 16 / 10 !important;
+  height: auto !important;
+  min-height: unset !important;
+  border-radius: 0 !important;
+}
+
+@media (max-width: 680px) {
+  .cc-post-grid--list {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ========== BREADCRUMBS ========== */
 .breadcrumbs {
   font-size: 0.85rem;
   color: var(--secondary);

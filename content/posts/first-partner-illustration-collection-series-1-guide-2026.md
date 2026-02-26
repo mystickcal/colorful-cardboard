@@ -12,7 +12,7 @@ cover:
   relative: true
 ---
 
-If you collect sealed Pokemon product, 2026 is already overloaded. We have Pokemon Day products, Ascended Heroes waves, Perfect Order hype, and now First Partner Illustration Collection Series 1 in the mix.
+If you collect sealed [Pokemon Day 2026 Collection](/posts/pokemon-day-2026-collection-price-check/) product, 2026 is already overloaded. We have Pokemon Day products, Ascended Heroes waves, Perfect Order hype, and now First Partner Illustration Collection Series 1 in the mix.
 
 So the real question is simple. Is this thing worth your money, or is it another box that looks cool and sits on shelves?
 

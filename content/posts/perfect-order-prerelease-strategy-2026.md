@@ -121,7 +121,7 @@ Only if pricing is within your plan and seller quality is strong. Avoid panic en
 
 ### Which Perfect Order cards should I prioritize first?
 
-Start with the headline chase cards and any cards showing real competitive traction. Use sold-volume confirmation before sizing up.
+Start with the [headline chase cards](/posts/most-valuable-perfect-order-cards-2026/) and any cards showing real competitive traction. Use sold-volume confirmation before sizing up.
 
 ### Is it better to buy sealed or singles at prerelease?
 

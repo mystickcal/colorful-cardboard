@@ -37,7 +37,7 @@ Keep in mind this timeline reflects currently announced dates. Retailers sometim
 
 ### Elite Trainer Box ($49.99 MSRP)
 
-The Ascended Heroes ETB is the flagship product and honestly the best all-around buy if you can find it at retail price. You get nine booster packs, 65 card sleeves, 45 Energy cards, damage counters, condition markers, a player's guide, six reference cards, a rules booklet, a collector's box, and a code card for online play.
+The Ascended Heroes ETB is the flagship product and honestly the best all-around buy if you can find it at retail price. Check our [Ascended Heroes ETB buying guide](/posts/ascended-heroes-etb-buying-guide-feb-20-2026/) for where to find it and current market prices. You get nine booster packs, 65 card sleeves, 45 Energy cards, damage counters, condition markers, a player's guide, six reference cards, a rules booklet, a collector's box, and a code card for online play.
 
 This is for collectors who want a complete package and players who need the accessories. The ETB also tends to hold value better than loose booster packs. Right now they're selling for $115-120 on the secondary market, which tells you everything about demand.
 
