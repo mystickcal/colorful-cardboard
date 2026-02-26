@@ -13,17 +13,8 @@
     <div class="logo cc-nav__logo">
       {{- $label_text := (site.Params.label.text | default site.Title) }}
       <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
-        {{- if site.Params.label.icon }}
-          {{- $img := resources.Get site.Params.label.icon }}
-          {{- if $img }}
-            {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
-            {{- if hugo.IsExtended }}{{- $processableFormats = $processableFormats | append "webp" -}}{{- end }}
-            {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
-            {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true) }}
-              {{- $img = $img.Resize "x100" }}
-            {{- end }}
-            <img src="{{ $img.Permalink }}" alt="{{ $label_text }}" aria-label="logo" height="100">
-          {{- end }}
+        {{- with site.Params.label.icon }}
+          <img src="{{ . | absURL }}" alt="{{ $label_text }}" aria-label="logo" height="100">
         {{- end }}
       </a>
       <div class="logo-switches"></div>
