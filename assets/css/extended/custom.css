@@ -364,7 +364,7 @@ a, button, input {
     grid-template-columns: 1fr;
   }
   .cc-post-grid--list .cc-post-card__thumb {
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 4 / 3;
     height: auto;
     min-height: unset;
     border-radius: 12px 12px 0 0;
@@ -388,11 +388,11 @@ a, button, input {
 
 .cc-post-card__thumb {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 4 / 3;
   height: auto;
   background-image: var(--cc-thumb-bg);
   background-size: cover;
-  background-position: center;
+  background-position: top center;
 }
 
 .cc-post-card__thumb--fallback {
@@ -1047,10 +1047,11 @@ a, button, input {
 }
 
 .cc-post-grid--list .cc-post-card__thumb {
-  aspect-ratio: 16 / 10 !important;
+  aspect-ratio: 4 / 3 !important;
   height: auto !important;
   min-height: unset !important;
   border-radius: 0 !important;
+  background-position: top center !important;
 }
 
 @media (max-width: 680px) {

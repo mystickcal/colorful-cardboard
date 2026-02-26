@@ -6,8 +6,8 @@ categories: ["Card Picks"]
 tags: ["undervalued", "rotation", "promo-cards", "investment-picks", "february-2026"]
 description: "Five Pokemon cards with strong upside potential heading into Spring 2026. Backed by real market data, rotation timing, and supply dynamics."
 cover:
-  image: "/images/posts/umbreon-ex-prismatic-hires.png"
-  alt: "Umbreon ex Prismatic Evolutions card — undervalued Pokemon cards guide"
+  image: "/images/posts/umbreon-ex-prismatic-evolutions.jpg"
+  alt: "Umbreon ex Prismatic Evolutions PSA 10 — undervalued Pokemon cards February 2026"
   hidden: false
 ShowToc: true
 ---
