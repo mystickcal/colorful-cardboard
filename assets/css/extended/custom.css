@@ -1239,3 +1239,16 @@ a, button, input {
 .post-content li::marker {
   color: var(--brand-orange) !important;
 }
+
+/* ========== PAGE CONTAINER — centers all subpage content ========== */
+.cc-page-container {
+  width: min(1100px, 92vw);
+  margin: 0 auto;
+  padding: 40px 0 60px;
+}
+
+.cc-single {
+  width: min(820px, 92vw);
+  margin: 0 auto;
+  padding: 0 0 60px;
+}
