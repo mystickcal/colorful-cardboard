@@ -23,12 +23,8 @@ keywords:
   - 151 sealed investment
   - First Partner Illustration Collection
 cover:
-  image: "/images/posts/pokemon-presents-feb-27-2026.jpg"
-  alt: "Pokemon cards and sealed product ahead of Pokemon Presents 2026"
-  relative: false
-cover:
   image: "/images/posts/pokemon-booster-packs.jpg"
-  alt: "What To Buy Before Pokemon Presents Feb 27 2026"
+  alt: "Pokemon cards and sealed product ahead of Pokemon Presents Feb 27 2026"
   hidden: false
 ---
 

@@ -6,13 +6,8 @@ description: "Ascended Heroes pull rates from 8,000+ packs of data, plus the rip
 tags: ["pokemon cards", "ascended heroes", "pull rates", "singles strategy", "expected value"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/ascended-heroes-dragonite-pack.jpg"
-  alt: "Pokemon TCG Ascended Heroes booster pack featuring Mega Dragonite - pull rates guide"
-  caption: ""
-  relative: false
-cover:
   image: "/images/posts/ascended-heroes-pull-rates-rip-or-buy-singles.jpg"
-  alt: "Ascended Heroes Pull Rates Rip Or Buy Singles"
+  alt: "Ascended Heroes pull rates guide — rip packs or buy singles?"
   hidden: false
 ---
 

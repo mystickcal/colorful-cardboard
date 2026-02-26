@@ -6,10 +6,9 @@ description: "G regulation mark rotates April 10, 2026. Here's exactly what to s
 tags: ["pokemon cards", "pokemon tcg investing", "pokemon rotation 2026", "sell before rotation", "G regulation mark"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/pokemon-tcg-rotation-2026-sell-buy-checklist.jpg"
-  alt: "Pokemon TCG cards spread on a table, rotation 2026 sell and buy checklist"
-  caption: ""
-  relative: true
+  image: "/images/posts/pokemon-tcg-rotation-2026-sell-buy-checklist.jpg"
+  alt: "Pokemon TCG cards spread on a table — rotation 2026 sell and buy checklist"
+  hidden: false
 ---
 
 If you're sitting on competitive singles from Scarlet & Violet 151, Obsidian Flames, or Paldea Evolved right now, your window to sell at full price is closing fast. The 2026 Standard rotation hits Pokemon TCG Live on **March 26** and in-person play on **April 10**, and when player demand evaporates from a card, prices often follow within 2-3 weeks.

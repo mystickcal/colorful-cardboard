@@ -6,8 +6,9 @@ description: "Pokemon Day 2026 brings 30th anniversary hype and a wave of new co
 tags: ["pokemon cards", "investing", "budget", "pokemon day 2026", "beginner guide"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/best-pokemon-cards-under-50-pokemon-day-2026.jpg"
+  image: "/images/posts/best-pokemon-cards-under-50-pokemon-day-2026.jpg"
   alt: "Pokemon trading cards fanned out — budget investing guide for Pokemon Day 2026"
+  hidden: false
 ---
 
 Happy Pokemon Day. February 27 is the official date, but let's be real — the community is going absolutely feral *right now*. Pokemon Presents is airing, 30th anniversary content is everywhere, and a massive wave of new collectors is entering this hobby for the first time.

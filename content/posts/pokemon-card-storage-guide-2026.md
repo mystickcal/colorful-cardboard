@@ -6,11 +6,8 @@ description: "A comprehensive guide to storing Pokemon cards safely. Learn about
 tags: ["storage", "protection", "collecting", "beginners"]
 categories: ["Guides"]
 cover:
-    image: "/images/pokemon-storage-guide.jpg"
-    alt: "Pokemon card storage solutions including binders, toploaders, and storage boxes"
-cover:
   image: "/images/posts/pokemon-card-binder.webp"
-  alt: "Pokemon Card Storage Guide 2026"
+  alt: "Pokemon card storage solutions — binders, toploaders, and storage boxes guide"
   hidden: false
 ---
 

@@ -6,8 +6,8 @@ description: "Ascended Heroes ETB drops Feb 20. Here's every retailer ranked, wh
 tags: ["pokemon cards", "ascended heroes", "elite trainer box", "etb", "buying guide", "february 2026"]
 categories: ["Card Picks"]
 cover:
-  image: "/images/posts/ascended-heroes-etb.jpg"
-  alt: "Pokemon TCG Ascended Heroes Elite Trainer Box featuring Mega Dragonite"
+  image: "/images/posts/ascended-heroes-mega-charizard.jpg"
+  alt: "Mega Charizard Y ex from Pokemon TCG Ascended Heroes — ETB buying guide"
   caption: ""
   relative: false
 ---

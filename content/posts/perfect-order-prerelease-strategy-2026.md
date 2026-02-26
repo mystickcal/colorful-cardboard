@@ -6,10 +6,9 @@ description: "A practical Perfect Order prerelease strategy for March 2026 with 
 tags: ["pokemon cards", "investing", "perfect order", "prerelease", "chase cards"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/perfect-order-prerelease-strategy-2026.jpg"
-  alt: "Pokemon card booster packs and binders for a prerelease buying strategy"
-  caption: ""
-  relative: true
+  image: "/images/posts/perfect-order-prerelease-strategy-2026.jpg"
+  alt: "Pokemon card booster packs and binders — Perfect Order prerelease buying strategy 2026"
+  hidden: false
 ---
 
 Perfect Order releases on March 27, 2026, with prerelease events starting March 14. This is where most buyers make the same mistake every cycle. They treat prerelease pricing like fair market value, then get stuck when wider supply hits.

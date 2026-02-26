@@ -6,13 +6,8 @@ description: "Which Ascended Heroes cards are actually worth submitting to PSA r
 tags: ["pokemon cards", "pokemon tcg investing", "ascended heroes", "psa grading", "grading roi", "ascended heroes grading"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/mega-gengar-ex-ascended-heroes.jpg"
-  alt: "Mega Gengar ex Special Illustration Rare card from Pokemon TCG Ascended Heroes"
-  caption: ""
-  relative: false
-cover:
   image: "/images/posts/ascended-heroes-cards-worth-grading-psa-march-2026.jpg"
-  alt: "Ascended Heroes Cards Worth Grading Psa March 2026"
+  alt: "Ascended Heroes cards worth grading for PSA — Pokemon TCG grading ROI guide"
   hidden: false
 ---
 

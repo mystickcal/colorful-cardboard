@@ -6,10 +6,9 @@ description: "Prismatic Evolutions restock watch for 2026 with MSRP targets, ent
 tags: ["pokemon cards", "investing", "prismatic evolutions", "restock", "market analysis"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/prismatic-evolutions-restock-watch-2026.jpg"
-  alt: "Pokemon card packs and singles laid out for a restock strategy article"
-  caption: ""
-  relative: true
+  image: "/images/posts/prismatic-evolutions-restock-watch-2026.jpg"
+  alt: "Pokemon card packs and singles laid out — Prismatic Evolutions restock strategy 2026"
+  hidden: false
 ---
 
 Prismatic Evolutions has been one of the hardest sets to buy clean in the Scarlet and Violet era. Most collectors do not lose money because they picked the wrong card. They lose money because they paid panic prices right before supply improved.

@@ -6,10 +6,9 @@ description: "The 2026 Pokemon TCG rotation hits digital on March 26 and in-pers
 tags: ["pokemon cards", "standard rotation 2026", "pokemon investing", "market analysis", "play pokemon"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/pokemon-tcg-standard-rotation-2026-guide.jpg"
-  alt: "Pokemon trading cards arranged for a deck rotation analysis"
-  caption: ""
-  relative: true
+  image: "/images/posts/pokemon-tcg-standard-rotation-2026-guide.jpg"
+  alt: "Pokemon trading cards arranged for a deck rotation analysis — 2026 standard rotation guide"
+  hidden: false
 ---
 
 Rotation is one of the cleanest timing edges in Pokemon card collecting.

@@ -6,10 +6,9 @@ description: "Is the Perfect Order booster box worth buying at launch? We run th
 tags: ["pokemon cards", "pokemon tcg investing", "perfect order", "booster box", "sealed product investment", "mega evolution"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/perfect-order-booster-box-worth-it.jpg"
-  alt: "Pokemon cards and sealed products - Perfect Order booster box investment guide"
-  caption: ""
-  relative: true
+  image: "/images/posts/perfect-order-booster-box-worth-it.jpg"
+  alt: "Pokemon cards and sealed products — Perfect Order booster box investment guide"
+  hidden: false
 ---
 
 The last time Pokemon TCG released a small Mega Evolution set with high SIR density, sealed booster boxes launched around $140-160 at retail, hit $190-220 on the secondary market within three weeks, then slowly bled back toward $100 over the following two months as more product reached shelves.

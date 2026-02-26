@@ -6,10 +6,9 @@ description: "PSA locked bulk pricing behind their Collectors Club. Here's the r
 tags: ["PSA", "grading", "collectors club", "pokemon cards", "grading ROI", "2026"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/psa-collectors-club-worth-it-2026.jpg"
-  alt: "Pokemon cards laid out on a desk next to grading supplies"
-  caption: ""
-  relative: true
+  image: "/images/posts/psa-collectors-club-worth-it-2026.jpg"
+  alt: "Pokemon cards laid out on a desk next to grading supplies — PSA Collectors Club worth it 2026"
+  hidden: false
 ---
 
 I had thirty cards sitting on my desk last Tuesday. Modern hits from the last few months of ripping packs with my son. A couple of Prismatic Evolutions pulls that caught my eye, some Ascended Heroes promos, a handful of solid singles I'd picked up raw because the price was right.

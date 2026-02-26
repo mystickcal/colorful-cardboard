@@ -6,10 +6,9 @@ description: "Destined Rivals launches May 30, 2026. Here is a no-hype preorder 
 tags: ["pokemon cards", "destined rivals", "team rocket", "preorder guide", "market analysis"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/pokemon-destined-rivals-preorder-guide-2026.jpg"
-  alt: "Pokemon booster packs and trading cards on a table"
-  caption: ""
-  relative: true
+  image: "/images/posts/pokemon-destined-rivals-preorder-guide-2026.jpg"
+  alt: "Pokemon booster packs and trading cards — Destined Rivals preorder guide 2026"
+  hidden: false
 ---
 
 Pokemon TCG: Destined Rivals is one of the most watchlisted releases of 2026, and you can see why. Team Rocket cards are back in force, trainer-Pokemon pairings are pulling old collectors back in, and preorder pricing is already drifting higher in spots.

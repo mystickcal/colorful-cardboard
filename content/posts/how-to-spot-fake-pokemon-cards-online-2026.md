@@ -6,10 +6,9 @@ description: "Buying singles online is normal in 2026. Getting stuck with fakes 
 tags: ["pokemon cards", "collecting", "buying guide", "tcgplayer", "ebay", "investing"]
 categories: ["Guides"]
 cover:
-  image: "images/posts/how-to-spot-fake-pokemon-cards-online-2026.jpg"
-  alt: "A close view of Pokemon cards and sleeves, used for a guide on identifying counterfeit cards"
-  caption: ""
-  relative: true
+  image: "/images/posts/how-to-spot-fake-pokemon-cards-online-2026.jpg"
+  alt: "A close view of Pokemon cards and sleeves — how to spot fake Pokemon cards online guide"
+  hidden: false
 ---
 
 If you buy Pokemon cards online, you will eventually run into fakes. Not "maybe". It happens because the market is huge, the cards are expensive, and a lot of buyers do not know what to check.

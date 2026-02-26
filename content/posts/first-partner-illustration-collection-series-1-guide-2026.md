@@ -6,10 +6,9 @@ description: "A practical collector guide to Pokemon TCG's First Partner Illustr
 tags: ["pokemon cards", "first partner illustration collection", "pokemon 30th anniversary", "set release", "investing"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/first-partner-illustration-collection-series-1-guide-2026.jpg"
-  alt: "Pokemon cards displayed in a collection binder"
-  caption: ""
-  relative: true
+  image: "/images/posts/first-partner-illustration-collection-series-1-guide-2026.jpg"
+  alt: "Pokemon cards displayed in a collection binder — First Partner Illustration Collection Series 1 guide"
+  hidden: false
 ---
 
 If you collect sealed [Pokemon Day 2026 Collection](/posts/pokemon-day-2026-collection-price-check/) product, 2026 is already overloaded. We have Pokemon Day products, Ascended Heroes waves, Perfect Order hype, and now First Partner Illustration Collection Series 1 in the mix.

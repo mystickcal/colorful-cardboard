@@ -7,8 +7,8 @@ categories: ["Market Analysis"]
 tags: ["Ascended Heroes", "blister packs", "release delays", "Erika", "Larry"]
 draft: false
 cover:
-  image: "/images/posts/ascended-heroes-blister-2pack.jpg"
-  alt: "Ascended Heroes Erika and Larry 2-Pack Blister"
+  image: "/images/posts/ascended-heroes-mega-dragonite.jpg"
+  alt: "Mega Dragonite ex from Pokemon TCG Ascended Heroes set"
   relative: false
 ---
 

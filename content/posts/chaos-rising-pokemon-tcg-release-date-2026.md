@@ -6,10 +6,9 @@ description: "Chaos Rising (ME04) is slated for May 22, 2026. Here is what to bu
 tags: ["pokemon cards", "investing", "set release", "chaos rising", "preorder", "market analysis"]
 categories: ["Set Reviews"]
 cover:
-  image: "images/posts/chaos-rising-pokemon-tcg-release-date-2026.jpg"
-  alt: "Pokemon cards on a table with packs and sleeves, used for a set release and preorder strategy article"
-  caption: ""
-  relative: true
+  image: "/images/posts/chaos-rising-pokemon-tcg-release-date-2026.jpg"
+  alt: "Pokemon cards on a table with packs and sleeves — Chaos Rising set release and preorder strategy"
+  hidden: false
 ---
 
 Chaos Rising is showing up on 2026 release calendars as the next big English set after the March and April waves. If you collect sealed, chase singles, or you are trying to build a position without getting wrecked by early pricing, you need two things:

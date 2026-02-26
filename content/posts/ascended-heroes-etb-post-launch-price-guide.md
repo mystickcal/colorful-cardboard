@@ -6,8 +6,8 @@ description: "Ascended Heroes ETB launched Feb 20 at $49.99 MSRP. TCGPlayer mark
 tags: ["pokemon cards", "pokemon tcg investing", "ascended heroes", "elite trainer box", "sealed product", "price analysis"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/ascended-heroes-etb.jpg"
-  alt: "Pokemon TCG Ascended Heroes Elite Trainer Box featuring Mega Dragonite"
+  image: "/images/posts/ascended-heroes-mega-dragonite.jpg"
+  alt: "Mega Dragonite ex from Pokemon TCG Ascended Heroes — ETB post-launch price guide"
   caption: ""
   relative: false
 ---

@@ -12,8 +12,8 @@ tags:
   - Product Guide
 draft: false
 cover:
-  image: "/images/posts/ascended-heroes-etb.jpg"
-  alt: "Ascended Heroes Elite Trainer Box"
+  image: "/images/posts/ascended-heroes-logo.png"
+  alt: "Pokemon TCG Ascended Heroes set logo — product release schedule 2026"
   relative: false
 ---
 
