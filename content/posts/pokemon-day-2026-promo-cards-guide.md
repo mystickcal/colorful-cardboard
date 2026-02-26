@@ -21,8 +21,8 @@ keywords:
   - Pokemon card collecting
 author: "Derek from Click Consultants"
 cover:
-  image: "/images/posts/pokemon-day-2026-collection-price-check.jpg"
-  alt: "Pokemon Day 2026 promo cards guide — where to get them and what they're worth"
+  image: "/images/posts/bulbasaur-151-illustration-rare.jpg"
+  alt: "Bulbasaur Illustration Rare — Pokemon Day 2026 promo cards guide"
   hidden: false
 ---
 

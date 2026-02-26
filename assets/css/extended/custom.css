@@ -315,14 +315,14 @@ a, button, input {
 }
 
 /* ========== POST GRID (dominant images) ========== */
+/* Portrait card layout — 2 columns so tall cards have room */
 .cc-post-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 22px;
 }
 
-@media (max-width: 1050px) { .cc-post-grid { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 720px) { .cc-post-grid { grid-template-columns: 1fr; gap: 18px; } }
+@media (max-width: 680px) { .cc-post-grid { grid-template-columns: 1fr; gap: 18px; } }
 
 /* List pages (category, tag): horizontal cards, easier to scan */
 .cc-post-grid--list {
@@ -364,7 +364,7 @@ a, button, input {
     grid-template-columns: 1fr;
   }
   .cc-post-grid--list .cc-post-card__thumb {
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 3 / 4;
     height: auto;
     min-height: unset;
     border-radius: 12px 12px 0 0;
@@ -388,11 +388,11 @@ a, button, input {
 
 .cc-post-card__thumb {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 3 / 4;
   height: auto;
   background-image: var(--cc-thumb-bg);
   background-size: cover;
-  background-position: top center;
+  background-position: center;
 }
 
 .cc-post-card__thumb--fallback {
@@ -1047,11 +1047,11 @@ a, button, input {
 }
 
 .cc-post-grid--list .cc-post-card__thumb {
-  aspect-ratio: 4 / 3 !important;
+  aspect-ratio: 3 / 4 !important;
   height: auto !important;
   min-height: unset !important;
   border-radius: 0 !important;
-  background-position: top center !important;
+  background-position: center !important;
 }
 
 @media (max-width: 680px) {
