@@ -1056,3 +1056,65 @@ a, button, input {
   margin-bottom: 16px;
 }
 /* cache bust 1772121901 */
+
+/* ========== CENTERED LOGO NAV ========== */
+.cc-nav-centered {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  padding: 0 24px;
+  min-height: 110px;
+  gap: 16px;
+}
+
+.cc-nav__left,
+.cc-nav__right {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cc-nav__right {
+  justify-content: flex-end;
+}
+
+.cc-nav__left a,
+.cc-nav__right a {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s ease;
+}
+
+.cc-nav__left a:hover,
+.cc-nav__right a:hover {
+  color: var(--brand-blue);
+}
+
+.cc-nav__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cc-nav__logo .logo-switches {
+  display: none;
+}
+
+/* Override old nav styles that conflict */
+.cc-nav-centered #menu { display: none; }
+.cc-nav-centered .logo { display: contents; }
+
+@media (max-width: 768px) {
+  .cc-nav-centered {
+    grid-template-columns: 1fr auto;
+    min-height: 80px;
+  }
+  .cc-nav__left { display: none; }
+  .cc-nav__right { display: none; }
+}
