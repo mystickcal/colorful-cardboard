@@ -2,7 +2,7 @@
 title: "Pokemon's 30th Anniversary in 2026: The Investor's Preparation Guide"
 date: 2026-02-09
 cover:
-  image: "/images/posts/charizard-151-hires.png"
+  image: "/images/posts/charizard-ex-151-hires.png"
   alt: "Charizard ex 151 — Pokemon 30th anniversary investment strategy"
   hidden: false
 draft: false

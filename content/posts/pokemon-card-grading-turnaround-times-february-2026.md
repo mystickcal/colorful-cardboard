@@ -5,8 +5,8 @@ date: 2026-02-12T23:10:00-05:00
 categories: ["Market Analysis"]
 tags: ["PSA", "BGS", "CGC", "grading turnaround times", "2026"]
 cover:
-  image: "/images/posts/grading-turnaround.jpg"
-  alt: "Featured image"
+  image: "/images/posts/grading-slabs-comparison.jpg"
+  alt: "PSA, BGS, and CGC graded Pokemon card slabs — grading turnaround times February 2026"
   relative: false
 ---
 

@@ -6,8 +6,8 @@ description: "PSA locked bulk pricing behind their Collectors Club. Here's the r
 tags: ["PSA", "grading", "collectors club", "pokemon cards", "grading ROI", "2026"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/psa-collectors-club-worth-it-2026.jpg"
-  alt: "Pokemon cards laid out on a desk next to grading supplies — PSA Collectors Club worth it 2026"
+  image: "/images/posts/grading-slabs-comparison.jpg"
+  alt: "PSA, BGS, and CGC graded Pokemon card slabs — PSA Collectors Club worth it 2026"
   hidden: false
 ---
 

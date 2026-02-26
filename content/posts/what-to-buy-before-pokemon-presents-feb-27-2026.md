@@ -23,8 +23,8 @@ keywords:
   - 151 sealed investment
   - First Partner Illustration Collection
 cover:
-  image: "/images/posts/charizard-ex-obsidian-flames-hires.png"
-  alt: "Charizard ex — what to buy before Pokemon Presents Feb 27 2026"
+  image: "/images/posts/prismatic-evolutions-etb.webp"
+  alt: "Prismatic Evolutions ETB — what to buy before Pokemon Presents Feb 27 2026"
   hidden: false
 ---
 

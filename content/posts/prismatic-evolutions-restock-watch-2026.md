@@ -6,8 +6,8 @@ description: "Prismatic Evolutions restock watch for 2026 with MSRP targets, ent
 tags: ["pokemon cards", "investing", "prismatic evolutions", "restock", "market analysis"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/prismatic-evolutions-restock-watch-2026.jpg"
-  alt: "Pokemon card packs and singles laid out — Prismatic Evolutions restock strategy 2026"
+  image: "/images/posts/prismatic-evolutions-etb.webp"
+  alt: "Prismatic Evolutions Elite Trainer Box featuring Eevee — restock watch 2026"
   hidden: false
 ---
 

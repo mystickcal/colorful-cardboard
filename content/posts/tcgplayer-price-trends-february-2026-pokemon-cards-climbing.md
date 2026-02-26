@@ -8,8 +8,8 @@ tags: ["Pokemon TCG", "Price Trends", "TCGPlayer", "Card Investing", "Market Ana
 categories: ["Market Analysis"]
 keywords: ["pokemon cards climbing in price", "TCGPlayer price trends", "pokemon card price spikes", "pokemon card investing 2026"]
 cover:
-  image: "/images/posts/tcgplayer-price-trends.jpg"
-  alt: "Featured image"
+  image: "/images/posts/moonbreon-psa10.jpg"
+  alt: "Umbreon VMAX Alt Art PSA 10 — TCGPlayer price trends February 2026"
   relative: false
 ---
 

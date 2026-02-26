@@ -6,8 +6,8 @@ description: "Is the Perfect Order booster box worth buying at launch? We run th
 tags: ["pokemon cards", "pokemon tcg investing", "perfect order", "booster box", "sealed product investment", "mega evolution"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/perfect-order-booster-box-worth-it.jpg"
-  alt: "Pokemon cards and sealed products — Perfect Order booster box investment guide"
+  image: "/images/posts/perfect-order-mega-zygarde.jpg"
+  alt: "Mega Zygarde ex from Perfect Order — booster box investment guide"
   hidden: false
 ---
 

@@ -6,8 +6,8 @@ description: "A practical Perfect Order prerelease strategy for March 2026 with 
 tags: ["pokemon cards", "investing", "perfect order", "prerelease", "chase cards"]
 categories: ["Market Analysis"]
 cover:
-  image: "/images/posts/perfect-order-prerelease-strategy-2026.jpg"
-  alt: "Pokemon card booster packs and binders — Perfect Order prerelease buying strategy 2026"
+  image: "/images/posts/perfect-order-logo.png"
+  alt: "Pokemon TCG Perfect Order set logo — prerelease buying strategy 2026"
   hidden: false
 ---
 

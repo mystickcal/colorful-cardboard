@@ -6,8 +6,8 @@ description: "PSA updated submission pricing in February 2026 (effective Feb 10)
 categories: ["Market Analysis"]
 tags: ["PSA", "grading fees", "Pokemon cards", "2026", "grading ROI"]
 cover:
-  image: "/images/posts/psa-grading-price-increase-february-2026.jpg"
-  alt: "Pokemon cards in protective cases on a desk"
+  image: "/images/posts/pokemon-card-psa-slab.jpg"
+  alt: "PSA 10 Gem Mint graded Pokemon card slab — PSA grading price increase February 2026"
   relative: false
 ---
 
