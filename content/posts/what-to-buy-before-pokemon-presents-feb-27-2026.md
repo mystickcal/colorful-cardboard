@@ -26,6 +26,10 @@ cover:
   image: "/images/posts/pokemon-presents-feb-27-2026.jpg"
   alt: "Pokemon cards and sealed product ahead of Pokemon Presents 2026"
   relative: false
+cover:
+  image: "/images/posts/pokemon-booster-packs.jpg"
+  alt: "What To Buy Before Pokemon Presents Feb 27 2026"
+  hidden: false
 ---
 
 Pokémon Presents is tomorrow — February 27 at 9AM ET — and there are two specific buys I want to flag before the stream starts.

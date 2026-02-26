@@ -6,10 +6,14 @@ description: "Which Ascended Heroes cards are actually worth submitting to PSA r
 tags: ["pokemon cards", "pokemon tcg investing", "ascended heroes", "psa grading", "grading roi", "ascended heroes grading"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/ascended-heroes-cards-worth-grading-psa-march-2026.jpg"
-  alt: "Pokemon TCG Ascended Heroes cards in protective sleeves ready for PSA grading submission"
+  image: "/images/mega-gengar-ex-ascended-heroes.jpg"
+  alt: "Mega Gengar ex Special Illustration Rare card from Pokemon TCG Ascended Heroes"
   caption: ""
-  relative: true
+  relative: false
+cover:
+  image: "/images/posts/ascended-heroes-cards-worth-grading-psa-march-2026.jpg"
+  alt: "Ascended Heroes Cards Worth Grading Psa March 2026"
+  hidden: false
 ---
 
 Mega Gengar ex SIR is sitting at $836 raw. A PSA 10 of the same card in the secondary market is pushing into $1,200-$1,400 territory on eBay sold listings: roughly a 40-65% multiplier if you can land that grade.

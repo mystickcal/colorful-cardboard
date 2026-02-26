@@ -21,6 +21,10 @@ cover:
   image: "/images/ascended-heroes-dragonite-pack.jpg"
   alt: "Pokemon TCG Ascended Heroes booster pack featuring Mega Dragonite"
   relative: false
+cover:
+  image: "/images/posts/ascended-heroes-etb.jpg"
+  alt: "Ascended Heroes Etb Price Check Feb 2026"
+  hidden: false
 ---
 
 Ascended Heroes has that "special set" energy where it feels like every box is either **instantly sold out** or **instantly overpriced**.

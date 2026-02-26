@@ -6,10 +6,10 @@ description: "Ascended Heroes legality moved to March 6, 2026. Here is what Poke
 tags: ["pokemon cards", "ascended heroes", "tournament legality", "pokemon investing", "euic 2026"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/ascended-heroes-legality-march-6-2026.jpg"
-  alt: "Pokemon cards spread on a table for tournament prep"
+  image: "/images/posts/ascended-heroes-blister-2pack.jpg"
+  alt: "Pokemon TCG Ascended Heroes Erika and Larry 2-Pack Blister - tournament legal March 6 2026"
   caption: ""
-  relative: true
+  relative: false
 ---
 
 If you collect with one eye on tournament demand, this update matters more than most people think.

@@ -2,8 +2,8 @@
 title: "Team Rocket Cards Are Heating Up: Your 2026 Rotation Investment Guide"
 date: 2026-02-09
 cover:
-  image: "/images/posts/team-rocket-cards.jpg"
-  alt: "Team Rocket Pokemon cards"
+  image: "/images/posts/dark-charizard-team-rocket.png"
+  alt: "Dark Charizard from Pokemon Team Rocket set - Team Rocket cards investment guide"
   hidden: false
 draft: false
 categories: ["Market Analysis"]

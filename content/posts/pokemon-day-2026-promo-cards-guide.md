@@ -24,6 +24,10 @@ cover:
   image: "/images/bulbasaur-pokemon-day-2026.jpg"
   alt: "Bulbasaur promo card for Pokemon Day 2026"
   relative: false
+cover:
+  image: "/images/posts/pokemon-day-2026-collection-price-check.jpg"
+  alt: "Pokemon Day 2026 Promo Cards Guide"
+  hidden: false
 ---
 
 Pokemon Day is almost here, and if you're a parent, collector, or investor, you're probably wondering what promo cards are coming this year and whether they're worth the effort to track down. February 27th marks the annual celebration of all things Pokemon, and The Pokemon Company has announced special promo cards that will be available through multiple channels.

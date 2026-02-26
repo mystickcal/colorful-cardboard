@@ -6,10 +6,10 @@ description: "Perfect Order drops March 27. Use 5 weeks of Japanese price data t
 tags: ["pokemon cards", "perfect order", "market analysis", "chase cards", "mega evolution", "investment guide"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/most-valuable-perfect-order-cards-2026.jpg"
-  alt: "Pokemon TCG Perfect Order most valuable cards guide"
+  image: "/images/posts/mega-zygarde-ex.jpg"
+  alt: "Mega Zygarde EX gold secret rare - most valuable Pokemon TCG Perfect Order cards"
   caption: ""
-  relative: true
+  relative: false
 ---
 
 You've been burned before.

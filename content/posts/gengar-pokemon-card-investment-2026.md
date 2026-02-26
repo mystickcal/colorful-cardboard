@@ -6,10 +6,10 @@ description: "Mega Gengar ex SIR at $836, Gengar & Mimikyu GX at $1,223, Gengar 
 tags: ["pokemon cards", "pokemon tcg investing", "gengar", "mega gengar ex", "pokemon card investment 2026"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/gengar-pokemon-card-investment-2026.jpg"
-  alt: "Pokemon trading cards spread out with a focus on rare holographic cards"
+  image: "/images/posts/gengar-ex-obsidian-flames.png"
+  alt: "Gengar ex from Obsidian Flames - Pokemon card investment 2026"
   caption: ""
-  relative: true
+  relative: false
 ---
 
 Mega Gengar ex SIR closed at **$836** at Ascended Heroes launch. Gengar & Mimikyu GX Alt Art is sitting at **$1,223** right now and climbing $92 in the last 30 days. Gengar VMAX Alt Art from Fusion Strike: **$735**, up $47 in the same window.

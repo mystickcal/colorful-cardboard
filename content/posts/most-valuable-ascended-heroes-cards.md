@@ -20,6 +20,10 @@ cover:
   image: "/images/mega-gengar-ex-ascended-heroes.jpg"
   alt: "Mega Gengar ex special illustration rare card from Pokemon TCG Ascended Heroes"
   relative: false
+cover:
+  image: "/images/posts/valuable-ascended-cards.jpg"
+  alt: "Most Valuable Ascended Heroes Cards"
+  hidden: false
 ---
 
 Ascended Heroes pricing is doing that classic early-set thing where one day you’re like "wow that’s expensive" and the next day you’re like "why is this basically a car payment".

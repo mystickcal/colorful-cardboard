@@ -6,10 +6,14 @@ description: "Ascended Heroes pull rates from 8,000+ packs of data, plus the rip
 tags: ["pokemon cards", "ascended heroes", "pull rates", "singles strategy", "expected value"]
 categories: ["Market Analysis"]
 cover:
-  image: "images/posts/ascended-heroes-pull-rates-rip-or-buy-singles.jpg"
-  alt: "Stack of Ascended Heroes Pokemon card packs ready to be opened"
+  image: "/images/ascended-heroes-dragonite-pack.jpg"
+  alt: "Pokemon TCG Ascended Heroes booster pack featuring Mega Dragonite - pull rates guide"
   caption: ""
-  relative: true
+  relative: false
+cover:
+  image: "/images/posts/ascended-heroes-pull-rates-rip-or-buy-singles.jpg"
+  alt: "Ascended Heroes Pull Rates Rip Or Buy Singles"
+  hidden: false
 ---
 
 I watched a guy on TikTok open 50 Ascended Heroes packs last week. Fifty. He pulled two Illustration Rares, a handful of ex cards, and exactly zero SIRs. His face at the end said everything. He'd spent somewhere north of $900 at inflated retail and walked away with maybe $120 in cardboard.

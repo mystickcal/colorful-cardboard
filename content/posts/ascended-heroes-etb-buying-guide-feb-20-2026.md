@@ -6,10 +6,10 @@ description: "Ascended Heroes ETB drops Feb 20. Here's every retailer ranked, wh
 tags: ["pokemon cards", "ascended heroes", "elite trainer box", "etb", "buying guide", "february 2026"]
 categories: ["Card Picks"]
 cover:
-  image: "images/posts/ascended-heroes-etb-buying-guide-feb-20-2026.jpg"
-  alt: "Pokemon TCG Ascended Heroes Elite Trainer Box buying guide for February 20 2026 release"
+  image: "/images/posts/ascended-heroes-etb.jpg"
+  alt: "Pokemon TCG Ascended Heroes Elite Trainer Box featuring Mega Dragonite"
   caption: ""
-  relative: true
+  relative: false
 ---
 
 You had your Pokemon Center preorder cancelled. Or maybe you never got one in the first place. Either way, February 20 is four days away and you need a plan. Not another roundup of affiliate links with "best price" slapped on top. An actual plan for what to do, what to pay, and the exact moment you should close your wallet and walk away.

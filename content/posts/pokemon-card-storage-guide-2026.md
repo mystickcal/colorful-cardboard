@@ -8,6 +8,10 @@ categories: ["Guides"]
 cover:
     image: "/images/pokemon-storage-guide.jpg"
     alt: "Pokemon card storage solutions including binders, toploaders, and storage boxes"
+cover:
+  image: "/images/posts/pokemon-card-binder.webp"
+  alt: "Pokemon Card Storage Guide 2026"
+  hidden: false
 ---
 
 You just pulled a rare card worth hundreds of dollars. Now what?
