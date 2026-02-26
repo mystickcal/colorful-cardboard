@@ -1128,3 +1128,10 @@ a, button, input {
   .cc-nav__left { display: none; }
   .cc-nav__right { display: none; }
 }
+
+/* ========== FULL WIDTH MAIN ========== */
+/* Override PaperMod's narrow .main so our sections control their own width */
+.main {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
