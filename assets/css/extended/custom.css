@@ -915,8 +915,9 @@ a, button, input {
 
 .post-content ul,
 .post-content ol {
+  padding-inline-start: 1.75em !important;
   padding-left: 1.75em !important;
-  margin-left: 0.5em !important;
+  margin-left: 0.25em !important;
   margin-bottom: 1.4em !important;
   list-style: revert !important;
 }
@@ -930,9 +931,9 @@ a, button, input {
 }
 
 .post-content li {
+  display: list-item !important;
   margin-bottom: 0.5em;
   line-height: 1.7;
-  padding-left: 0.25em;
 }
 
 .post-content li::marker {
