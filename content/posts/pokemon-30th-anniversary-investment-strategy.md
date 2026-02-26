@@ -18,7 +18,7 @@ The 25th anniversary in 2021 triggered massive price spikes across vintage cards
 
 ## What We Know For Sure
 
-Pokemon Day 2026 Collections are already hitting shelves at $14.99 retail. Based on Resell Calendar's analysis, these are straightforward flips at $25-35 in the first month, driven by 30th anniversary premium and three-pack value. That's $7-17 profit after eBay's 13% fees.
+[Pokemon Day 2026 Collections](/posts/pokemon-day-2026-collection-price-check/) are already hitting shelves at $14.99 retail. Based on Resell Calendar's analysis, these are straightforward flips at $25-35 in the first month, driven by 30th anniversary premium and three-pack value. That's $7-17 profit after eBay's 13% fees.
 
 **First Partner Illustration Collections** are releasing throughout 2026, featuring nostalgic starter Pokemon artwork. These are low-investment, high-volume plays for casual flippers.
 
