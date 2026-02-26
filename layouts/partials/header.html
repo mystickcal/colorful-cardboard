@@ -14,7 +14,7 @@
       {{- $label_text := (site.Params.label.text | default site.Title) }}
       <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
         {{- with site.Params.label.icon }}
-          <img src="{{ . | absURL }}" alt="{{ $label_text }}" aria-label="logo" height="100">
+          <img src="{{ . | absURL }}" alt="{{ $label_text }}" aria-label="logo" height="150">
         {{- end }}
       </a>
       <div class="logo-switches"></div>
