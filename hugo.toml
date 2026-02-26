@@ -63,36 +63,43 @@ theme = "PaperMod"
     noClasses = false
 
 [[menu.main]]
+identifier = "nav-home"
 name = "Home"
 url = "/"
 weight = 0
 
 [[menu.main]]
+identifier = "nav-market-analysis"
 name = "Market Analysis"
 url = "/categories/market-analysis/"
 weight = 1
 
 [[menu.main]]
+identifier = "nav-set-reviews"
 name = "Set Reviews"
 url = "/categories/set-reviews/"
 weight = 2
 
 [[menu.main]]
+identifier = "nav-card-picks"
 name = "Card Picks"
 url = "/categories/card-picks/"
 weight = 3
 
 [[menu.main]]
+identifier = "nav-guides"
 name = "Guides"
-url = "/guides/"
+url = "/categories/guides/"
 weight = 4
 
 [[menu.main]]
+identifier = "nav-start-here"
 name = "Start Here"
 url = "/start-here/"
 weight = 5
 
 [[menu.footer]]
+identifier = "nav-about"
 name = "About"
 url = "/about/"
 weight = 1
