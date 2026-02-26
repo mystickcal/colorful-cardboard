@@ -98,8 +98,9 @@ a, button, input {
 
 .logo img {
   font-size: initial !important;
-  height: 72px !important;
-  width: auto !important;
+  height: auto !important;
+  width: 200px !important;
+  max-height: 60px;
   border-radius: 0 !important;
   object-fit: contain;
 }
