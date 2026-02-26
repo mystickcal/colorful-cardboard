@@ -63,12 +63,6 @@ theme = "PaperMod"
     noClasses = false
 
 [[menu.main]]
-identifier = "nav-home"
-name = "Home"
-url = "/"
-weight = 0
-
-[[menu.main]]
 identifier = "nav-market-analysis"
 name = "Market Analysis"
 url = "/categories/market-analysis/"
