@@ -83,8 +83,19 @@ a, button, input {
 }
 
 /* Hide logo text — icon only in header */
-.logo a span {
-  display: none;
+.logo a span,
+.logo a:not(:has(span)) {
+  font-size: 0 !important;
+  width: 0;
+  overflow: hidden;
+}
+
+.logo a {
+  font-size: 0 !important;
+}
+
+.logo a img {
+  font-size: initial;
 }
 
 .logo a::before { display: none; }
