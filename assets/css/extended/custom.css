@@ -161,6 +161,10 @@ a, button, input {
   width: min(var(--nav-width), 92vw);
   margin: 0 auto;
   max-width: 920px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .cc-hero__inner--with-logo {
