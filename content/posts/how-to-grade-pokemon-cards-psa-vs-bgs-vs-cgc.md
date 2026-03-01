@@ -220,6 +220,16 @@ If you want a clean rule set:
 
 - Default to **PSA**
 
+{{< buy-box >}}
+**Buy Pokemon Card Grading Supplies:** [Amazon](https://www.amazon.com/s?k=pokemon+card+grading+supplies&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+card+grading+supplies&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+card+grading+supplies)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final thoughts
 
 Grading is not just “make card worth more.” It is a business decision.

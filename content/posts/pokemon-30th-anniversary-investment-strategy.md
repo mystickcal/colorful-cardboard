@@ -92,6 +92,16 @@ Let's be honest about the risks:
 
 4. **Gen 10 announcement timing:** If Gen 10 reveals happen during the anniversary window, attention splits between nostalgia and new content. That dilutes hype.
 
+{{< buy-box >}}
+**Buy Pokemon Sealed Product:** [Amazon](https://www.amazon.com/s?k=pokemon+sealed+product+investing&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+sealed+product+investing&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+sealed+product+investing)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## The Bottom Line Play
 
 If you're risk-averse: **Buy Pokemon Day 2026 Collections at retail, flip within 30 days for 60-100% profit.**

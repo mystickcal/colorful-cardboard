@@ -148,6 +148,16 @@ Watch Amazon for an official listing. Monitor TCGplayer daily for price dips as 
 
 If you're interested in the singles market instead, the best window for buying individual chase cards is typically 2 to 4 weeks after release, once the initial wave of pack openings floods the supply side. For cards like the Mega Charizard Y gold or Mega Dragonite SIR, early post-release pricing is usually inflated by low supply. Patience rewards singles buyers even more than sealed buyers.
 
+{{< buy-box >}}
+**Buy Pokemon Ascended Heroes ETB:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+elite+trainer+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+elite+trainer+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+elite+trainer+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Frequently Asked Questions
 
 **Why was my Pokemon Center Ascended Heroes preorder cancelled?**

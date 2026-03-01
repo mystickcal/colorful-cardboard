@@ -200,6 +200,16 @@ If you are still building fundamentals, start with sealed in general first (Engl
 
 Japanese can be a secret weapon, but only if you treat it like an investment market, not a treasure hunt.
 
+{{< buy-box >}}
+**Buy Japanese Pokemon Booster Box:** [Amazon](https://www.amazon.com/s?k=japanese+pokemon+booster+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=japanese+pokemon+booster+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=japanese+pokemon+booster+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final thoughts
 
 The biggest advantage Japanese Pokemon cards offer investors is not “better cards.”

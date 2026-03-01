@@ -127,6 +127,16 @@ The best product is the one you can buy at MSRP consistently. For most collector
 
 Singles usually give more control once supply settles. Sealed can work when bought at MSRP and held longer. If you are new, avoid early sealed premiums.
 
+{{< buy-box >}}
+**Buy Pokemon Chaos Rising:** [Amazon](https://www.amazon.com/s?k=pokemon+chaos+rising+preorder&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+chaos+rising+preorder&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+chaos+rising+preorder)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Bottom Line
 
 Chaos Rising can be a great lane, but only if you do not let the preorder window bully you into overpaying. Anchor on MSRP, buy in tranches, and keep budget reserved for the point where real supply and real demand finally show up.

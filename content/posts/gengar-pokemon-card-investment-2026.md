@@ -132,6 +132,16 @@ At $735 with a positive 30-day trend, yes — if you are willing to hold 12+ mon
 
 Yes. Any highly priced collector card can correct. The risk is highest if a buyout has inflated prices above organic demand, or if new Gengar cards flood the market and split collector attention. Buy for quality and hold with conviction; do not chase momentum at all-time highs.
 
+{{< buy-box >}}
+**Buy Gengar Pokemon Cards:** [Amazon](https://www.amazon.com/s?k=gengar+pokemon+card&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=gengar+pokemon+card&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=gengar+pokemon+card)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 Gengar is not a meme investment. The data across three sets and multiple years tells a consistent story: premium Gengar card treatments maintain and grow collector value better than most Pokemon over a 12-24 month window.

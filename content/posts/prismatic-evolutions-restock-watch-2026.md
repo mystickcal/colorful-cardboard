@@ -120,6 +120,16 @@ Track top-demand character cards, competitive staples, and low-pop promos tied t
 
 Use position sizing. Keep part of your budget in reserve so you can buy confirmed dips instead of all-in at first entry.
 
+{{< buy-box >}}
+**Buy Prismatic Evolutions ETB:** [Amazon](https://www.amazon.com/s?k=pokemon+prismatic+evolutions+etb&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+prismatic+evolutions+etb&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+prismatic+evolutions+etb)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Bottom Line
 
 Prismatic Evolutions can still be a strong lane, but only if you stop treating every restock rumor like a green light. Buy near retail, avoid panic premiums, and keep your dry powder for real opportunities.

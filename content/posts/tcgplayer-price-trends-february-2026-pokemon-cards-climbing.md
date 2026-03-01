@@ -142,6 +142,16 @@ The February 2026 data reveals a few key themes:
 
 **The market has liquidity again.** Price spikes like these require actual buying volume. After a sluggish 2025, the Pokemon card market appears to have regained momentum. That's good for sellers but means buyers need to be more selective.
 
+{{< buy-box >}}
+**Buy Pokemon Singles:** [Amazon](https://www.amazon.com/s?k=pokemon+cards+trending+2026&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+cards+trending+2026&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+cards+trending+2026)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final Thoughts: Use Data, Not Hype
 
 TCGPlayer price trends are a tool, not a signal. The data tells you what happened, not what will happen next. A card climbing $146 in one reporting period might climb another $150, or it might give back half those gains by next month.

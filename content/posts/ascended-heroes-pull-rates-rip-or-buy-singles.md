@@ -146,6 +146,16 @@ My suggestion: set price alerts on TCGPlayer for the specific cards you want. De
 - God pack gambling. I know the YouTube thumbnails are electric. The 1/980 odds make scratch-off lottery tickets look reasonable by comparison.
 - Individual packs at $20 from retailers gouging on the current supply shortage. Wait for ETB day.
 
+{{< buy-box >}}
+**Buy Ascended Heroes Booster Box:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+booster+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+booster+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+booster+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Frequently Asked Questions
 
 **What are the god pack odds in Ascended Heroes?**

@@ -110,6 +110,16 @@ The real question is whether this 1st Edition wave is sustainable or just hype. 
 
 ---
 
+{{< buy-box >}}
+**Buy Undervalued Pokemon Cards:** [Amazon](https://www.amazon.com/s?k=pokemon+cards+undervalued+2026&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+cards+undervalued+2026&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+cards+undervalued+2026)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final Thoughts
 
 These five cards share a common thread: they're all benefiting from **structural factors** (scarcity, rotation, seasonal demand) rather than just hype. That doesn't guarantee they'll keep climbing, but it does mean their price movements are based on real supply/demand dynamics, not just speculation.

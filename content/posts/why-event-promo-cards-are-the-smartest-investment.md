@@ -131,6 +131,16 @@ For seasonal promos (Halloween, Pokemon Day, etc.), list during the relevant mon
 ### Step 5: Repeat
 Event promos with seasonal relevance can be bought and sold in cycles. Buy Spiritomb in January (off-season), sell in September/October (peak Halloween demand). Repeat annually.
 
+{{< buy-box >}}
+**Buy Pokemon Event Promo Cards:** [Amazon](https://www.amazon.com/s?k=pokemon+event+promo+cards&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+event+promo+cards&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+event+promo+cards)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final Thoughts
 
 Event promo cards won't make you rich overnight. They're not the 10x moonshots that hype-driven chase cards can be. But they offer something more valuable: **predictability**.

@@ -102,6 +102,16 @@ Yes. The staggered rollout runs through April 24, so expect multiple waves of in
 **Should I buy from resellers on launch day?**  
 Only if you're comfortable paying above MSRP. Restocks are likely within 2-3 weeks.
 
+{{< buy-box >}}
+**Buy Pokemon Ascended Heroes Blister:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+blister+pack&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+blister+pack&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+blister+pack)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final Thoughts
 
 The Feb 20 delay for the Ascended Heroes Erika and Larry blister packs tightens the launch window, but it's not a disaster. If you're hunting these for the promos, your best move is to line up a local game store pre-order or check big-box stores early on the 20th.

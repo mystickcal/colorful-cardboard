@@ -107,6 +107,16 @@ Also worth checking out: our [TCGPlayer price trends for February 2026](/posts/t
 
 This post contains affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you.
 
+{{< buy-box >}}
+**Buy Pokemon Ascended Heroes ETB:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+elite+trainer+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+elite+trainer+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+elite+trainer+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 **When did Ascended Heroes officially release?**

@@ -89,6 +89,16 @@ Every investment thesis needs a "what could go wrong" section. Here are the risk
 
 **Bubble Mechanics**: Some of the recent gains are driven by buyouts and FOMO. The Team Up card's 10-copy buyout in April 2024 kicked off the rally. If speculators lose interest, momentum could stall.
 
+{{< buy-box >}}
+**Buy Gengar Pokemon Cards:** [Amazon](https://www.amazon.com/s?k=gengar+pokemon+card&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=gengar+pokemon+card&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=gengar+pokemon+card)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Bottom Line
 
 The Gengar price surge is real, and it's based on fundamentals: cross-generational appeal, stunning modern artwork, and legitimate scarcity. But it's also getting frothy in places.

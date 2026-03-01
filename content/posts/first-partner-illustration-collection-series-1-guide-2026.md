@@ -132,6 +132,16 @@ Use this quick checklist so hype does not run your wallet.
 
 If that makes you pause, good. You are doing this right.
 
+{{< buy-box >}}
+**Buy First Partner Illustration Collection:** [Amazon](https://www.amazon.com/s?k=pokemon+first+partner+illustration+collection&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+first+partner+illustration+collection&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+first+partner+illustration+collection)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### What is the First Partner Illustration Collection Series 1 release date?

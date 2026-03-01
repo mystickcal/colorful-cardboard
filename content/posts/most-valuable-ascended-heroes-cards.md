@@ -130,6 +130,16 @@ eBay searches (swap to item links if you find a great listing):
 Also, protect your stuff. Seriously. Here’s the storage article:
 - [Pokemon Card Storage Guide 2026](/posts/pokemon-card-storage-guide-2026/)
 
+{{< buy-box >}}
+**Buy Ascended Heroes Singles:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+cards&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+cards&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+cards)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### Are these prices stable?

@@ -95,6 +95,16 @@ Once you get your hands on Nihil Zero cards (whether sealed or singles), don't s
 
 Penny sleeves, top loaders, and binders with side-loading pockets are your friends here. For a full breakdown of best practices, check out [our Pokemon card storage guide for 2026](/posts/pokemon-card-storage-guide-2026/).
 
+{{< buy-box >}}
+**Buy Pokemon Nihil Zero JP:** [Amazon](https://www.amazon.com/s?k=pokemon+nihil+zero+japanese+booster+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+nihil+zero+japanese+booster+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+nihil+zero+japanese+booster+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 **When does Nihil Zero release?**

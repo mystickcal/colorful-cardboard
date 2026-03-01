@@ -110,6 +110,16 @@ Cards that connect to the original 151 Pokemon or to memorable moments in the an
 
 6. **Storing cards improperly.** Penny sleeves + top loaders for singles. Keep sealed product in a climate-controlled space. Sunlight, humidity, and temperature swings destroy value.
 
+{{< buy-box >}}
+**Buy Pokemon ETB Starter Kit:** [Amazon](https://www.amazon.com/s?k=pokemon+elite+trainer+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+elite+trainer+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+elite+trainer+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Your First $100 Investment
 
 If I had $100 to start a Pokemon card investment portfolio today, here's exactly what I'd do:

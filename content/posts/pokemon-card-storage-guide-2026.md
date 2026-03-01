@@ -304,6 +304,16 @@ A: Technically yes, but organize by game for sanity. Pokemon cards are slightly 
 
 A: Check for yellowing pages, sticky residue, warped cards, or color fading. If you see any of these, upgrade immediately.
 
+{{< buy-box >}}
+**Buy Pokemon Card Storage:** [Amazon](https://www.amazon.com/s?k=pokemon+card+storage+binder+sleeves&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+card+storage+binder+sleeves&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+card+storage+binder+sleeves)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Final Thoughts: Storage Is an Investment
 
 Spending $100 on proper storage isn't an expense. It's insurance for your collection.

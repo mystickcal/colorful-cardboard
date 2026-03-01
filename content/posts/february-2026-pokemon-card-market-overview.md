@@ -70,6 +70,16 @@ Here's how I'd categorize the current opportunities:
 - Any "1st Edition" vintage card being pumped by social media without genuine collectibility
 - TCG Pocket digital cards (different market entirely, don't confuse the two)
 
+{{< buy-box >}}
+**Buy Pokemon Sealed Product:** [Amazon](https://www.amazon.com/s?k=pokemon+tcg+sealed+2026&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+tcg+sealed+2026&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+tcg+sealed+2026)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 February 2026 is a buying window. Rotation creates scarcity, the anniversary creates demand, and Mega Evolution creates excitement. The investors who position before all three forces converge will be the ones who profit.

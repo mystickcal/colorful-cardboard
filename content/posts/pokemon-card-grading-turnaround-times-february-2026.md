@@ -106,6 +106,16 @@ Sometimes yeah if you genuinely think the card deserved better and the grading f
 
 Nope once it's submitted it's locked into that service level so if you sent something in at Value tier and then the market starts spiking you're stuck waiting out the full turnaround. This is why I sometimes pay up for Regular or Express tier on cards I think might move fast even if it feels like overkill at the time.
 
+{{< buy-box >}}
+**Buy Pokemon Card Grading Supplies:** [Amazon](https://www.amazon.com/s?k=pokemon+card+sleeves+toploaders&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+card+sleeves+toploaders&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+card+sleeves+toploaders)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 Grading turnarounds in February 2026 are pretty reasonable across the board compared to where they were in 2021-2022 when PSA was shut down for months and backlogs were insane but you still gotta be smart about what you send in because grading fees add up FAST and most cards don't benefit enough to justify it.

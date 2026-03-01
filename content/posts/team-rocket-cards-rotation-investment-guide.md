@@ -108,6 +108,16 @@ Let's be real about the risks:
 4. **Set price alerts** for Team Rocket's Ariana and Giovanni. Buy when sellers undercut market price.
 5. **Watch competitive results** on platforms like LimitlessTCG. If Team Rocket decks start topping tournaments, accelerate buying.
 
+{{< buy-box >}}
+**Buy Team Rocket Pokemon Cards:** [Amazon](https://www.amazon.com/s?k=pokemon+team+rocket+cards&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+team+rocket+cards&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+team+rocket+cards)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Bottom Line
 
 The Team Rocket card surge isn't hype. It's driven by real factors: League Battle Deck distribution, Standard rotation mechanics, and sustained sales volume. But like any market move, timing matters.

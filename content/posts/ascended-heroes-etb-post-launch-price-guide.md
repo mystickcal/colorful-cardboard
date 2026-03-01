@@ -103,6 +103,16 @@ The PC ETB has a track record of holding value based on Prismatic Evolutions' be
 **How many packs are in the Ascended Heroes ETB?**
 The standard retail ETB contains 9 booster packs (releasing February 20 at $49.99 MSRP). The Pokemon Center exclusive ETB contains 11 packs plus a bonus N's Zekrom foil promo card.
 
+{{< buy-box >}}
+**Buy Pokemon Ascended Heroes ETB:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+elite+trainer+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+elite+trainer+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+elite+trainer+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## The Bottom Line
 
 The Ascended Heroes ETB did not dip on launch day. If you missed MSRP, don't chase it at $140 to rip — the expected value doesn't hold up at that price, and the April 24 Booster Bundle will reset the market in 10 weeks.

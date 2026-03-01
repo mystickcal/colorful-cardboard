@@ -74,6 +74,16 @@ If you're serious about getting the Bulbasaur promo and protecting its value, he
 
 Don't sleep on this one. Pokemon Day promos are easy to dismiss because they're "just League handouts," but the 30th anniversary timing gives this Bulbasaur extra weight. Even if it doesn't skyrocket in value, it's a cool piece of Pokemon history.
 
+{{< buy-box >}}
+**Buy Pokemon Day 2026 Collection:** [Amazon](https://www.amazon.com/s?k=pokemon+day+2026+collection&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+day+2026+collection&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+day+2026+collection)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 **When is Pokemon Day 2026?**  

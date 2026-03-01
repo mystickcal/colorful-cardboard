@@ -146,6 +146,16 @@ You never "know", but you can get close. The biggest modern killers are centerin
 
 They keep grading the same pile of "pretty good" cards and assume the outcome stays profitable. Fees go up, margins go down, and suddenly the same behavior is a loss.
 
+{{< buy-box >}}
+**Buy PSA Grading Supplies:** [Amazon](https://www.amazon.com/s?k=pokemon+card+grading+supplies&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+card+grading+supplies&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+card+grading+supplies)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Bottom line
 
 PSA pricing changes do not kill grading. They just punish sloppy grading.

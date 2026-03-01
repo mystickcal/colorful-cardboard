@@ -119,6 +119,16 @@ Pokemon also confirmed the 2026 Standard rotation timeline, with digital rotatio
 
 If you have not reviewed that yet, keep an eye on this because card utility can flip fast.
 
+{{< buy-box >}}
+**Buy Ascended Heroes Singles:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+singles&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+singles&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+singles)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### Is Ascended Heroes legal for tournament play now?

@@ -134,6 +134,16 @@ Here’s what can move pricing in either direction:
 
 If you want to keep what you already own safe, this matters more than people think. Read the [Pokemon card storage guide](/posts/pokemon-card-storage-guide-2026/) and fix your storage before you buy more heat.
 
+{{< buy-box >}}
+**Buy Pokemon Ascended Heroes ETB:** [Amazon](https://www.amazon.com/s?k=pokemon+ascended+heroes+elite+trainer+box&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+ascended+heroes+elite+trainer+box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+ascended+heroes+elite+trainer+box)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### What is the Ascended Heroes ETB release date?

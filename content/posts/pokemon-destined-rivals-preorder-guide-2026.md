@@ -132,6 +132,16 @@ That structure keeps you from blowing your entire budget before the market settl
 
 If tournament demand hits one of the big names, singles pricing can stay elevated longer than normal.
 
+{{< buy-box >}}
+**Buy Pokemon Destined Rivals:** [Amazon](https://www.amazon.com/s?k=pokemon+destined+rivals+preorder&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+destined+rivals+preorder&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+destined+rivals+preorder)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### When does Pokemon Destined Rivals release?

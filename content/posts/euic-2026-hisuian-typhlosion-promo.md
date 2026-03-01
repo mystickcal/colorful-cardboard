@@ -169,6 +169,16 @@ Technically yes, but be careful. Some codes are account-locked, and selling code
 
 ---
 
+{{< buy-box >}}
+**Buy Pokemon EUIC Promo:** [Amazon](https://www.amazon.com/s?k=pokemon+euic+2026+promo&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+euic+2026+promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+euic+2026+promo)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## Disclaimers
 
 **Not Financial Advice:** This content is for informational and entertainment purposes only. It is not financial or investment advice. Card prices fluctuate and past performance doesn't guarantee future results. Always do your own research before buying or selling.

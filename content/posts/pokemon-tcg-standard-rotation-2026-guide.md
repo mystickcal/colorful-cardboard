@@ -127,6 +127,16 @@ This keeps you from chasing noise and helps you allocate into confirmed demand.
 
 Consistency beats impulse in rotation windows.
 
+{{< buy-box >}}
+**Buy Pokemon TCG Sealed Product:** [Amazon](https://www.amazon.com/s?k=pokemon+tcg+sealed+product+2026&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+tcg+sealed+product+2026&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+tcg+sealed+product+2026)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### When does 2026 Standard rotation start in Pokemon TCG Live?

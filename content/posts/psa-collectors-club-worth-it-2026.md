@@ -210,6 +210,16 @@ Under 15 cards: skip the PSA membership, use CGC or BGS for individual submissio
 - BGS and CGC pricing in response (competition tends to follow)
 - Your own submission data: track every card you grade, what it cost, what it sold for, and whether the membership actually saved you money after a full year
 
+{{< buy-box >}}
+**Buy PSA Grading Supplies:** [Amazon](https://www.amazon.com/s?k=pokemon+card+grading+supplies&tag=colorfulcardboard-20) | [eBay](https://www.ebay.com/sch/i.html?_nkw=pokemon+card+grading+supplies&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339142051&toolid=10001&mkcid=1&mkevt=1) | [TCGPlayer](https://www.tcgplayer.com/search/pokemon/product?q=pokemon+card+grading+supplies)
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| Amazon | Check price | Prime eligible |
+| eBay | Check sold listings | Best for market price |
+| TCGPlayer | Check price | Best for singles |
+{{< /buy-box >}}
+
 ## FAQ
 
 ### How many cards do I need to submit to break even on PSA Collectors Club?
